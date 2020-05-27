@@ -1,15 +1,15 @@
 ---
-title: "Near-Surface Lighting Estimation and Reconstruction"
+title: "NEAR-SURFACE LIGHTING ESTIMATION AND RECONSTRUCTION"
 collection: publications
-permalink: /publication/2017-ICME
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2017-07
-venue: '2018 IEEE International Conference on Multimedia and Expo (ICME), oral, best paper'
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2010-10-01
+venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/17-ICME_NSR.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
