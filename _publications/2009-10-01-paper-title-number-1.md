@@ -1,7 +1,6 @@
 ---
 title: "Near-Surface Lighting Estimation and Reconstruction"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Qian Zhang, Fei-Peng Tian, <b>Ruize Han</b>, Wei Feng'
 date: 2017-01-01
 venue: 'IEEE International Conference on Multimedia and Expo (ICME)'
