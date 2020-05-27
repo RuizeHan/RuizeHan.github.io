@@ -8,7 +8,7 @@ venue: 'IEEE International Conference on Multimedia and Expo (ICME)'
 paperurl: 'http://HanRuize.github.io/files/17-ICME_NSR.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Qian Zhang, Fei-Peng Tian, <i>Rui-Ze Han</i>, Wei Feng∗
 
 [Download paper here](http://HanRuize.github.io/files/17-ICME_NSR.pdf)
 
