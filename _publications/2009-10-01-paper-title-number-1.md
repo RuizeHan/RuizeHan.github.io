@@ -12,4 +12,3 @@ Qian Zhang, Fei-Peng Tian, <i>Rui-Ze Han</i>, Wei Feng∗
 
 [Download paper here](http://HanRuize.github.io/files/17-ICME_NSR.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
