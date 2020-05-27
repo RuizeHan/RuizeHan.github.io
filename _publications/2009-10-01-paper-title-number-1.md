@@ -2,7 +2,7 @@
 title: "Near-Surface Lighting Estimation and Reconstruction"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Qian Zhang, Fei-Peng Tian, <i>Rui-Ze Han</i>, Wei Feng∗'
 date: 2017-01-01
 venue: 'IEEE International Conference on Multimedia and Expo (ICME)'
 paperurl: 'http://HanRuize.github.io/files/17-ICME_NSR.pdf'
