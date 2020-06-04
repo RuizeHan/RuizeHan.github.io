@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Ruize Han"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Student \\ Tianjin University"
+  bio              : "Ph.D. Student, College of Intelligence and Computing, Tianjin University"
   location         : "Tianjin, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ef0Fw9QAAAAJ&hl=zh-CN&oi=ao"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "han_ruize@tju.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Ruize_Han"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,9 +109,9 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
-  weibo            :
+  weibo            : 
   xing             :
   youtube          :
   wikipedia        :
