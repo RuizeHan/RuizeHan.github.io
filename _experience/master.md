@@ -1,7 +1,7 @@
 ---
 title: ""
 collection: experience
-type: "Undergraduate course"
+type: "master"
 permalink: /experience/master
 venue: "Tianjin University, College of Intelligence and Computing"
 date: 2016-09-01
