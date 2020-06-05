@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 * One paper on tracking Weighted Sample based CF (WSCF) was accepted by _IEEE TIP_.
+* One paper on sign language recognition was accepted by _ICASSP 2020_.
 * One paper on tracking Selective Spatial Regularization for CF (SSRCF) was accepted by _IEEE TIP_.
 * The project page of CVMHT was added, the code and dateset are public.
 * Complementary-View Multiple Human Tracking (CVMHT) was accepted by _AAAI-20_.
