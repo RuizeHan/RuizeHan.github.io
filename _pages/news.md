@@ -14,11 +14,11 @@ redirect_from:
 * The project page of CVMHT was added, the code and dateset are public.
 * Complementary-View Multiple Human Tracking (CVMHT) was accepted by _AAAI-20_.
 * The project page of DSAR-CF was added.
-* The journal version of CRSRCF Dynamic Saliency-Aware Regularization for CF tracking (DSAR-CF) was accepted by _IEEE TIP_.
+* The journal version of CRSRCF (DSAR-CF) was accepted by _IEEE TIP_.
 * I obtained the National Graduate Fellowship 2018.
-* We achieved the **best paper award** of _ICME-18_.
+* We achieved the **best paper award** of _ICME 2018_.
 * The project page of CRSRCF was added.
-* One paper on tracking Content-Related Spatial Regularization for CF (CRSRCF) were accepted by ICME 2018.
+* One paper on tracking Content-Related Spatial Regularization for CF (CRSRCF) were accepted by _ICME 2018_.
 
 
 
