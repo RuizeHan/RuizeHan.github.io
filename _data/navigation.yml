@@ -13,7 +13,7 @@ main:
     url: /service/
         
   - title: "Awards"
-    url: /awards/
+    url: /award/
     
   - title: "CV"
     url: /cv/
