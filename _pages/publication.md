@@ -1,0 +1,20 @@
+---
+layout: archive
+title: "News"
+permalink: /news/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+7. Ruize Han, Wei Feng, Song Wang. Fast Learning of Spatially Regularized and Content Aware Correlation Filter for Visual Tracking, to appear in IEEE Transactions on Image Processing (TIP), 2020.
+6. Qing Guo, Ruize Han, Wei Feng, Zhihao Chen, Liang Wan. Selective Spatial Regularization by Reinforcement Learned Decision Making for Object Tracking, IEEE Transactions on Image Processing (TIP), 29:2999-3013, 2020.
+5. Ruize Han, Wei Feng, Jiewen Zhao, Zicheng Niu, Yujun Zhang, Liang Wan, Song Wang. Complementary-View Multiple Human Tracking, AAAI Conference on Artificial Intelligence (AAAI), 10917-10924, New York, NY, 2020. 
+4. Kuan Li, Yi Jin, Muhammad Waqar Akram, Ruize Han , Jiongwei Chen. Facial expression recognition with convolutional neural networks via a new face cropping and rotation strategy. The Visual Computer, 36(2):391-404, 2020. 
+3. Wei Feng, Ruize Han, Qing Guo, Jianke Zhu, Song Wang. Dynamic Saliency-Aware Regularization for Correlation Filter-Based Object Tracking, IEEE Transactions on Image Processing (TIP), 28(7):3232-3245, 2019.
+2. Ruize Han, Qing Guo, Wei Feng. Content-Related Spatial Regularization for Visual Object Tracking, IEEE International Conference on Multimedia and Expo (ICME), San Diego, USA, 2018.
+1. Qian Zhang, Fei-Peng Tian, Ruize Han, Wei Feng. Near-Surface Lighting Estimation and Reconstruction, IEEE International Conference on Multimedia and Expo (ICME), Hong Kong, China, 2017.
+
+
+
