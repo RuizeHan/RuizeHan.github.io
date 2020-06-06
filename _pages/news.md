@@ -17,7 +17,7 @@ redirect_from:
 * The project page of DSAR-CF was added. [[PROJECT]](https://github.com/HanRuize/DSAR-CF)
 * The journal version of CRSRCF (DSAR-CF) was accepted by _IEEE TIP_.
 * I obtained the National Graduate Fellowship 2018.
-* We achieved the **best paper award** of _ICME 2018_.
+* We achieved the [best paper award](http://www.icme2018.org/conf_awards) of _ICME 2018_.
 * The project page of CRSRCF was added. [[PROJECT]](https://github.com/HanRuize/CRSRCF)
 * One paper on tracking Content-Related Spatial Regularization for CF (CRSRCF) were accepted by _ICME 2018_.
 
