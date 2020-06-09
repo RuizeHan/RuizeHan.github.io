@@ -14,9 +14,9 @@ Download the [CV](http://HanRuize.github.io/files/resume.pdf) of Ruize Han
 Education
 ======
 
-* Ph.D student, Computer Application Technology, Tianjin University (TJU), Tian Jin, China, {2019 -- Present}
-* M,Eng., Computer Technology Engineering, Tianjin University (TJU), Tian Jin, China, {2016 -- 2019}
-* B.S., Mathematics and Applied Mathematics, Hebei University of Technology, Tianjin, China, {2012 -- 2016}
+* Ph.D student, Computer Application Technology, Tianjin University (TJU), Tian Jin, China, 2019 -- Present
+* M,Eng., Computer Technology Engineering, Tianjin University (TJU), Tian Jin, China, 2016 -- 2019
+* B.S., Mathematics and Applied Mathematics, Hebei University of Technology, Tianjin, China, 2012 -- 2016
 
 Research Projects
 ======
