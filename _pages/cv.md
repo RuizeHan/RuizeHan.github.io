@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"     download [PDF](http://HanRuize.github.io/files/resume.pdf)
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Download the [CV](http://HanRuize.github.io/files/resume.pdf) of Ruize Han
 
 Education
 ======
