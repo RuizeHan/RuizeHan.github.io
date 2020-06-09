@@ -47,7 +47,7 @@ Publications
 
  * Kuan Li, Yi Jin, Muhammad Waqar Akram, **Ruize Han** , Jiongwei Chen. Facial expression recognition with convolutional neural networks via a new face cropping and rotation strategy. The Visual Computer, 2020.
 
- * Wei Feng*, **Ruize Han***, Qing Guo, Jianke Zhu, Song Wang. Dynamic Saliency-Aware Regularization for Correlation Filter-Based Object Tracking, __IEEE__ __TIP__, 2019.  (\textit{Joint First Author})
+ * Wei Feng*, **Ruize Han***, Qing Guo, Jianke Zhu, Song Wang. Dynamic Saliency-Aware Regularization for Correlation Filter-Based Object Tracking, __IEEE__ __TIP__, 2019.  (Joint First Author)
 
  * **Ruize Han**, Qing Guo, Wei Feng. Content-Related Spatial Regularization for Visual Object Tracking, in __ICME__, 2018. (Best Paper Award)
 
