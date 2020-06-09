@@ -26,7 +26,7 @@ Research Projects
   * Detect and recognize the human-human interactions under crowded scene using graph neural network.
 
 * Summer 2017 -- Present : Visual Object Tracking
-	* Design dynamic/selective content-aware regularization in spatial-temporal domain for corrlation filter (CF) based visual object tracking.
+	* Design the dynamic/selective content-aware regularization in spatial-temporal domain for corrlation filter (CF) based visual object tracking.
 	* Propose a new weighting sample based approach for CF tracking to alleviate the boundary effects.
 	
 * Fall 2016 -- Summer 2017 : Visual Positioning & Precision Measurement
