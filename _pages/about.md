@@ -18,4 +18,4 @@ I am lucky to have opportunities to work with Prof. [Song Wang](https://cse.sc.e
 
 Address: #55 Building, Tianjin University, #135 Yaguan Road, Tianjin 300350, China
 
-Email: han_ruize@tju.edu.cn; han_ruize@163.com
+Email: han_ruize [@] tju [dot] edu [dot] cn; han_ruize [@] 163 [dot] com
