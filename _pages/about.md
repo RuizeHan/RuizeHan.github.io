@@ -16,5 +16,6 @@ I am lucky to have opportunities to work with Prof. [Song Wang](https://cse.sc.e
 
 ## Contact Information
 
-Address: Colledge of Intelligence and Computing, Tianjin University, #135 Yaguan Road, Tianjin 300350, China
+Address: #55 Building, Tianjin University, #135 Yaguan Road, Tianjin 300350, China
+
 Email: han_ruize@tju.edu.cn; han_ruize@163.com
