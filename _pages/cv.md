@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download the [CV] (http://hanruize.github.io/files/resume.pdf) PDF
+Download the [CV](http://hanruize.github.io/files/resume.pdf) PDF
 
 Education
 ======
