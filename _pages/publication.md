@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 10. Jiewen Zhao*, **Ruize Han**\*, YiYang Gan, Liang Wan, Wei Feng, Song Wang. Human Identification and Interaction Detection in Cross-View Multi-Person Videos with Wearable Cameras, ACM International Conference on Multimedia (**ACM MM**) 2020.
-9. **Ruize Han**,  Jiewen Zhao, Wei Feng, Yiyang Gan, Liang Wan, Song Wang. Fast Complementary-View Co-Interest Person Detection,  ACM International Conference on Multimedia (**ACM MM**) 2020.
-8. **Ruize Han**, Wei Feng, Song Wang. Fast Learning of Spatially Regularized and Content Aware Correlation Filter for Visual Tracking, to appear in IEEE Transactions on Image Processing (**TIP**), 2020.
+9. **Ruize Han**, Jiewen Zhao, Wei Feng, Yiyang Gan, Liang Wan, Song Wang. Fast Complementary-View Co-Interest Person Detection,  ACM International Conference on Multimedia (**ACM MM**) 2020.
+8. **Ruize Han**, Wei Feng, Song Wang. Fast Learning of Spatially Regularized and Content Aware Correlation Filter for Visual Tracking, IEEE Transactions on Image Processing (**TIP**),29:7128-7140, 2020.
 7. Haibo Li, Liqing Gao, **Ruize Han**, Liang Wan, Wei Feng. Key Action and Joint CTC-Attention based Sign Language Recognition, IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2020. [[PDF]](http://ruizehan.github.io/files/20-ICASSP.pdf) 
 6. Qing Guo, **Ruize Han**, Wei Feng, Zhihao Chen, Liang Wan. Selective Spatial Regularization by Reinforcement Learned Decision Making for Object Tracking, IEEE Transactions on Image Processing (**TIP**), 29:2999-3013, 2020. [[PDF]](http://ruizehan.github.io/files/20-TIP_SSR.pdf)
 5. **Ruize Han**, Wei Feng, Jiewen Zhao, Zicheng Niu, Yujun Zhang, Liang Wan, Song Wang. Complementary-View Multiple Human Tracking, AAAI Conference on Artificial Intelligence (**AAAI**), 10917-10924, New York, NY, 2020. [[PDF]](http://ruizehan.github.io/files/20-AAAI_CVMHT.pdf)
