@@ -37,9 +37,9 @@ Selective Publications
 ======
  * Jiewen Zhao\*, **Ruize Han**\*, YiYang Gan, Liang Wan, Wei Feng, Song Wang. Human Identification and Interaction Detection in Cross-View Multi-Person Videos with Wearable Cameras, ACM International Conference on Multimedia (**ACM MM**) 2020.
 
- * **Ruize Han**, Jiewen Zhao, Wei Feng, Yiyang Gan, Liang Wan, Song Wang. Fast Complementary-View Co-Interest Person Detection,  ACM International Conference on Multimedia (**ACM MM**) 2020.
+ * **Ruize Han**, Jiewen Zhao, Wei Feng, Yiyang Gan, Liang Wan, Song Wang. Fast Complementary-View Co-Interest Person Detection, ACM International Conference on Multimedia (**ACM MM**) 2020.
 
- * **Ruize Han**, Wei Feng, Song Wang. Fast Learning of Spatially Regularized and Content Aware Correlation Filter for Visual Tracking,__IEEE__ __TIP__, 2020.
+ * **Ruize Han**, Wei Feng, Song Wang. Fast Learning of Spatially Regularized and Content Aware Correlation Filter for Visual Tracking, __IEEE__ __TIP__, 2020.
 
  * Qing Guo, **Ruize Han**, Wei Feng, Zhihao Chen, Liang Wan. Selective Spatial Regularization by Reinforcement Learned Decision Making for Object Tracking, __IEEE__ __TIP__, 2020.
 
