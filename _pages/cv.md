@@ -33,27 +33,24 @@ Research Projects
 	* Inspect the fine-grained change of cultural relics under real-world hosting environments via visual positioning and precision measurement.
 	* Active recurrence of lighting condition for fine-grained change detection.
 
-Publications
+Selective Publications
 ======
+ * Jiewen Zhao\*, **Ruize Han**\*, YiYang Gan, Liang Wan, Wei Feng, Song Wang. Human Identification and Interaction Detection in Cross-View Multi-Person Videos with Wearable Cameras, ACM International Conference on Multimedia (**ACM MM**) 2020.
 
- * **Ruize Han**, Wei Feng, Song Wang. Fast Learning of Spatially Regularized and Content Aware Correlation Filter for Visual Tracking, to appear in __IEEE__ __TIP__, 2020.
+ * **Ruize Han**, Jiewen Zhao, Wei Feng, Yiyang Gan, Liang Wan, Song Wang. Fast Complementary-View Co-Interest Person Detection,  ACM International Conference on Multimedia (**ACM MM**) 2020.
 
- * Haibo Li, Liqing Gao, **Ruize Han**, Liang Wan, Wei Feng. Key Action and Joint CTC-Attention based Sign Language Recognition, in __ICASSP__, 2020.
+ * **Ruize Han**, Wei Feng, Song Wang. Fast Learning of Spatially Regularized and Content Aware Correlation Filter for Visual Tracking,__IEEE__ __TIP__, 2020.
 
  * Qing Guo, **Ruize Han**, Wei Feng, Zhihao Chen, Liang Wan. Selective Spatial Regularization by Reinforcement Learned Decision Making for Object Tracking, __IEEE__ __TIP__, 2020.
 
  * **Ruize Han**, Wei Feng, Jiewen Zhao, Zicheng Niu, Yujun Zhang, Liang Wan, Song Wang. Complementary-View Multiple Human Tracking, in __AAAI__ 2020.
-
- * Kuan Li, Yi Jin, Muhammad Waqar Akram, **Ruize Han** , Jiongwei Chen. Facial expression recognition with convolutional neural networks via a new face cropping and rotation strategy. The Visual Computer, 2020.
 
  * Wei Feng\*, **Ruize Han**\*, Qing Guo, Jianke Zhu, Song Wang. Dynamic Saliency-Aware Regularization for Correlation Filter-Based Object Tracking, __IEEE__ __TIP__, 2019.  (Joint First Author)
 
  * **Ruize Han**, Qing Guo, Wei Feng. Content-Related Spatial Regularization for Visual Object Tracking, in __ICME__, 2018. (Best Paper Award)
 
  * Qian Zhang, Fei-Peng Tian, **Ruize Han**, Wei Feng. Near-Surface Lighting Estimation and Reconstruction, in __ICME__, 2017.
- 
- * **Ruize Han**, Yujun Zhang, Wei Feng, Jiewen Zhao, Liang Wan, Song Wang. Multiple Human Association between Top and Horizontal Views via Spatial Distributions. In __arXiv__ 2020.
-  
+   
 Honors and Awards
 ======
 
