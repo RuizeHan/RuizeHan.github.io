@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+* 2020 National Graduate Fellowship
 * 2018 National Graduate Fellowship
 * 2018 IEEE ICME best paper award
 * 2016 Excellent Master Dissertation of Hebei University of Technology
