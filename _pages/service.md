@@ -12,6 +12,7 @@ redirect_from:
 * Reviewer of Neurocomputing
 * Reviewer of Pattern Recognition Letters
 * Reviewer of Electronics Letters
+* Reviewer of AAAI-21
 * Reviewer of IJCAI-20
 * Reviewer of ICPR-18
 * Reviewing for ICCV, CVPR, AAAI, TIP, TMM
