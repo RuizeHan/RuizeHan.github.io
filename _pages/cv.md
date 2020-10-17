@@ -49,7 +49,7 @@ Selective Publications
    
 Honors and Awards
 ======
-
+* 2020 National Graduate Scholarship 
 * 2018 National Graduate Scholarship 
 * 2018 ICME Best Paper Award 
 * 2016 Excellent Dissertation of Hebei University of Technology 
@@ -57,7 +57,7 @@ Honors and Awards
   
 Academic Services
 ======
- * Reviewer of conference: IJCAI-20, ICIP-18
+ * Reviewer of conference: AAAI-21, IJCAI-20, ICIP-18
  * Reviewer of journal: Neurocomputing, Pattern Recognition Letters, Electronic
   
 Miscellaneous

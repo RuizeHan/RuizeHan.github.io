@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+* I obtained the National Graduate Fellowship 2020.
 * Two papers on multi-view video analysis were accepted by _ACM MM 2020_.
 * One paper on tracking Weighted Sample based CF (WSCF) was accepted by _IEEE TIP_.
 * One paper on sign language recognition was accepted by _ICASSP 2020_.
