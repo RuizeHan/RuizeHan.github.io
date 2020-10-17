@@ -35,21 +35,17 @@ Research Projects
 
 Selective Publications
 ======
- * Jiewen Zhao\*, **Ruize Han**\*, YiYang Gan, Liang Wan, Wei Feng, Song Wang. Human Identification and Interaction Detection in Cross-View Multi-Person Videos with Wearable Cameras, __ACM__ __MM__, 2020.
-
+ 
  * **Ruize Han**, Jiewen Zhao, Wei Feng, Yiyang Gan, Liang Wan, Song Wang. Fast Complementary-View Co-Interest Person Detection, __ACM__ __MM__, 2020.
-
- * **Ruize Han**, Wei Feng, Song Wang. Fast Learning of Spatially Regularized and Content Aware Correlation Filter for Visual Tracking, __IEEE__ __TIP__, 2020.
-
- * Qing Guo, **Ruize Han**, Wei Feng, Zhihao Chen, Liang Wan. Selective Spatial Regularization by Reinforcement Learned Decision Making for Object Tracking, __IEEE__ __TIP__, 2020.
+ 
+ * Jiewen Zhao\*, **Ruize Han**\*, YiYang Gan, Liang Wan, Wei Feng, Song Wang. Human Identification and Interaction Detection in Cross-View Multi-Person Videos with Wearable Cameras, __ACM__ __MM__, 2020.
 
  * **Ruize Han**, Wei Feng, Jiewen Zhao, Zicheng Niu, Yujun Zhang, Liang Wan, Song Wang. Complementary-View Multiple Human Tracking, in __AAAI__ 2020.
 
- * Wei Feng\*, **Ruize Han**\*, Qing Guo, Jianke Zhu, Song Wang. Dynamic Saliency-Aware Regularization for Correlation Filter-Based Object Tracking, __IEEE__ __TIP__, 2019.  (Joint First Author)
+ * **Ruize Han**, Wei Feng, Song Wang. Fast Learning of Spatially Regularized and Content Aware Correlation Filter for Visual Tracking, __IEEE__ __TIP__, 2020.
 
  * **Ruize Han**, Qing Guo, Wei Feng. Content-Related Spatial Regularization for Visual Object Tracking, in __ICME__, 2018. (Best Paper Award)
 
- * Qian Zhang, Fei-Peng Tian, **Ruize Han**, Wei Feng. Near-Surface Lighting Estimation and Reconstruction, in __ICME__, 2017.
    
 Honors and Awards
 ======
