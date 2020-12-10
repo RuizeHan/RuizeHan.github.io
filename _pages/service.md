@@ -9,12 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+* Reviewer of IEEE Transaction on Pattern Analysis and Machine Intelligence
 * Reviewer of Neurocomputing
 * Reviewer of Pattern Recognition Letters
 * Reviewer of Electronics Letters
+* Reviewer of CVPR-21
 * Reviewer of AAAI-21
 * Reviewer of IJCAI-20
 * Reviewer of ICPR-18
-* Reviewing for ICCV, CVPR, AAAI, TIP, TMM
+* Reviewing for ICCV, , TIP, TMM
 
 
