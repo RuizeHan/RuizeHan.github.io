@@ -8,9 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+* [2021.2] One paper about multi-human tracking was accepted by _ICASSP 2021_. [[PROJECT]](https://github.com/github19970909/NSMHT)
+* [2021.1] The project pages of CIP and CVID were added to github. [[PROJECT]](https://github.com/HanRuize)
 * I obtained the National Graduate Fellowship 2020.
-* Two papers on multi-view video analysis were accepted by _ACM MM 2020_.
+* Two papers on multi-view video analysis (CIP, CVID) were accepted by _ACM MM 2020_.
 * One paper on tracking Weighted Sample based CF (WSCF) was accepted by _IEEE TIP_.
 * One paper on sign language recognition was accepted by _ICASSP 2020_.
 * One paper on tracking Selective Spatial Regularization for CF (SSRCF) was accepted by _IEEE TIP_.

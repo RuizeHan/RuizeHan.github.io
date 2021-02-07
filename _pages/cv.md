@@ -38,7 +38,7 @@ Selective Publications
  
  * **Ruize Han**, Jiewen Zhao, Wei Feng, Yiyang Gan, Liang Wan, Song Wang. Fast Complementary-View Co-Interest Person Detection, in __ACM__ __MM__, 2020.
  
- * Jiewen Zhao\*, **Ruize Han**\*, YiYang Gan, Liang Wan, Wei Feng, Song Wang. Human Identification and Interaction Detection in Cross-View Multi-Person Videos with Wearable Cameras, in __ACM__ __MM__, 2020.
+ * Jiewen Zhao\*, **Ruize Han**\*, Yiyang Gan, Liang Wan, Wei Feng, Song Wang. Human Identification and Interaction Detection in Cross-View Multi-Person Videos with Wearable Cameras, in __ACM__ __MM__, 2020.
 
  * **Ruize Han**, Wei Feng, Jiewen Zhao, Zicheng Niu, Yujun Zhang, Liang Wan, Song Wang. Complementary-View Multiple Human Tracking, in __AAAI__ 2020.
 
