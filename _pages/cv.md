@@ -23,7 +23,7 @@ Research Projects
 * Early 2019 -- Present : Multi-Camera Video Analysis
   * Associate and track multiple humans between the top bird's eye view  and horizontal egocentric view.
   * Detect the co-interest person (CIP) via the human visual attention using complementary-view cameras.
-  * Detect and recognize the human-human interactions under crowded scene using graph neural network.
+  * Detect and recognize the human-human interactions in crowded scene with graph neural network.
 
 * Summer 2017 -- Present : Visual Object Tracking
 	* Design the dynamic/selective content-aware regularization in spatial-temporal domain for corrlation filter (CF) based visual object tracking.
@@ -57,7 +57,7 @@ Honors and Awards
   
 Academic Services
 ======
- * Reviewer of conference: AAAI-21, IJCAI-20, ICIP-18
+ * Reviewer of conference: ICCV-21, CVPR-21, AAAI-21, IJCAI-20, ICIP-18
  * Reviewer of journal: Neurocomputing, Pattern Recognition Letters, Electronic
   
 Miscellaneous
