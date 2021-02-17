@@ -13,7 +13,7 @@ I am a third-year Ph.D. student at the College of Intelligence and Computing in 
 I received my M.Eng degree from Tianjin University in 2019, supervised by Prof. Feng.
 My research interest is visual intelligence, specifically including multi-camera video collaborative analysis, and visual object tracking.
 
-I am lucky to have opportunities to work with Prof. [Song Wang](https://cse.sc.edu/~songwang/) (University of South Carolina), and Prof. [Liang Wan](http://cic.tju.edu.cn/faculty/lwan/index.html) (Tianjin University). 
+I am lucky to have opportunities to work with Prof. [Song Wang](https://cse.sc.edu/~songwang/) (University of South Carolina) and Prof. [Liang Wan](http://cic.tju.edu.cn/faculty/lwan/index.html) (Tianjin University). 
 
 ## Contact Information
 
