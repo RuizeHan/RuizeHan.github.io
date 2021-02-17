@@ -11,8 +11,8 @@ redirect_from:
 
 * 2020 National Graduate Fellowship
 * 2018 National Graduate Fellowship
-* 2018 IEEE ICME best paper award
-* 2016 Excellent Master Dissertation of Hebei University of Technology
-* 2015 First prize in Tianjin Division of National Mathematical Contest in Modeling for College Students
-* 2015 National Encouragement scholarship
-* 2014 Second prize of National Mathematical Contest in Modeling for College Students
+* 2018 IEEE ICME Best Paper Award
+* 2016 Excellent Graduation Design in Hebei University of Technology
+* 2015 First Prize in Tianjin Division of National Mathematical Contest in Modeling for College Students
+* 2015 National Encouragement Scholarship
+* 2014 First Prize in Tianjin Division and National Second Prize of National Mathematical Contest in Modeling for College Students
