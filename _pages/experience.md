@@ -22,7 +22,7 @@ redirect_from:
 <br /> Research Interests: Mathematics and Applied Mathematics
 
 
-###Research Experience
+### Research Experience
 
 * Early 2019 -- Present : Multi-Camera Video Analysis
   * Multiple human association and tracking (MHAT) across the top bird's eye view and horizontal egocentric view.
