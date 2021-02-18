@@ -19,7 +19,7 @@ Education
 * B.S., Mathematics and Applied Mathematics, Hebei University of Technology, Tianjin, China, 2012 -- 2016
 
 
-Selective Publications
+Representative Publications
 ======
  
  * **Ruize Han**, Jiewen Zhao, Wei Feng, Yiyang Gan, Liang Wan, Song Wang. Fast Complementary-View Co-Interest Person Detection, in __ACM__ __MM__, 2020.
