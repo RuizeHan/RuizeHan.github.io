@@ -18,29 +18,15 @@ Education
 * M,Eng., Computer Technology Engineering, Tianjin University (TJU), Tian Jin, China, 2016 -- 2019
 * B.S., Mathematics and Applied Mathematics, Hebei University of Technology, Tianjin, China, 2012 -- 2016
 
-Research Projects
-======
-* Early 2019 -- Present : Multi-Camera Video Analysis
-  * Associate and track multiple humans between the top bird's eye view  and horizontal egocentric view.
-  * Detect the co-interest person (CIP) via the human visual attention using complementary-view cameras.
-  * Detect and recognize the human-human interactions in crowded scene with graph neural network.
-
-* Summer 2017 -- Present : Visual Object Tracking
-	* Design the dynamic/selective content-aware regularization in spatial-temporal domain for corrlation filter (CF) based visual object tracking.
-	* Propose a new weighting sample based approach for CF tracking to alleviate the boundary effects.
-	
-* Fall 2016 -- Summer 2017 : Visual Positioning & Precision Measurement
-	* Inspect the fine-grained change of cultural relics under real-world hosting environments via visual positioning and precision measurement.
-	* Active recurrence of lighting condition for fine-grained change detection.
 
 Selective Publications
 ======
  
  * **Ruize Han**, Jiewen Zhao, Wei Feng, Yiyang Gan, Liang Wan, Song Wang. Fast Complementary-View Co-Interest Person Detection, in __ACM__ __MM__, 2020.
  
- * Jiewen Zhao<sup>&para;</sup>, **Ruize Han**<sup>&para;</sup>, Yiyang Gan<sup>&para;</sup>, Liang Wan, Wei Feng, Song Wang. Human Identification and Interaction Detection in Cross-View Multi-Person Videos with Wearable Cameras, in __ACM__ __MM__, 2020.
-
  * **Ruize Han**, Wei Feng, Jiewen Zhao, Zicheng Niu, Yujun Zhang, Liang Wan, Song Wang. Complementary-View Multiple Human Tracking, in __AAAI__ 2020.
+
+ * Jiewen Zhao<sup>&para;</sup>, **Ruize Han**<sup>&para;</sup>, Yiyang Gan<sup>&para;</sup>, Liang Wan, Wei Feng, Song Wang. Human Identification and Interaction Detection in Cross-View Multi-Person Videos with Wearable Cameras, in __ACM__ __MM__, 2020.
 
  * **Ruize Han**, Wei Feng, Song Wang. Fast Learning of Spatially Regularized and Content Aware Correlation Filter for Visual Tracking, __IEEE__ __TIP__, 2020.
 
@@ -52,13 +38,14 @@ Honors and Awards
 * 2020 National Graduate Scholarship 
 * 2018 National Graduate Scholarship 
 * 2018 ICME Best Paper Award 
-* 2016 Excellent Dissertation of Hebei University of Technology 
-* 2015 National Encouragement Scholarship 
-  
+* 2016 Excellent Graduation Design in Hebei University of Technology
+* 2015 National Encouragement Scholarshi
+* 2014 National Second Prize of National Mathematical Contest in Modeling for College Students
+
 Academic Services
 ======
- * Reviewer of conference: ICCV-21, CVPR-21, AAAI-21, IJCAI-20, ICIP-18
- * Reviewer of journal: Neurocomputing, Pattern Recognition Letters, Electronic
+ * Reviewer of conference: ICCV, CVPR, AAAI, IJCAI, ICIP
+ * Reviewer of journal: IEEE TPAMI, Neurocomputing, Pattern Recognition Letters, Electronic Letters
   
 Miscellaneous
 ======
