@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+* [2021.3] One paper about Complementary-View Multiple Human ASsociation and Tracking (CVMHAT) was accepted by _IEEE TPAMI.
 * [2021.2] One paper about multi-human tracking was accepted by _ICASSP 2021_. [[PROJECT]](https://github.com/github19970909/NSMHT)
 * [2021.1] The project pages of CIP and CVID were added to github. [[PROJECT]](https://github.com/RuizeHan)
 * I obtained the National Graduate Fellowship 2020.
