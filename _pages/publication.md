@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-12\. **Ruize Han**, Wei Feng, Yujun Zhang, Jiewen Zhao, Song Wang. Multiple Human Association and Tracking from Egocentric and Complementary Top Views, to appear in IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**). [[pdf]](https://ieeexplore.ieee.org/document/9394804])
+12\. **Ruize Han**, Wei Feng, Yujun Zhang, Jiewen Zhao, Song Wang. Multiple Human Association and Tracking from Egocentric and Complementary Top Views, to appear in IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**). [[pdf]](https://ieeexplore.ieee.org/document/9394804)
 
 11\. Sibo Wang, **Ruize Han**$^\dagger$, Wei Feng, Song Wang. Multiple Human Tracking in Non-specific Coverage with Wearable Cameras, IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021.
 
