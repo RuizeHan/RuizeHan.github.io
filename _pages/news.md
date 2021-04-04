@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-* [2021.3] Multiple Human Association and Tracking from Egocentric and Complementary Top Views (CVMHAT) was accepted by _IEEE TPAMI_.
+* [2021.3] Multiple Human Association and Tracking from Egocentric and Complementary Top Views (CVMHAT) was accepted by _IEEE TPAMI_.[[PROJECT]](https://github.com/RuizeHan/CVMHAT)
 * [2021.2] One paper about multi-human tracking was accepted by _ICASSP 2021_. [[PROJECT]](https://github.com/github19970909/NSMHT)
 * [2021.1] The project pages of CIP and CVID were added to github. [[PROJECT]](https://github.com/RuizeHan)
 * I obtained the National Graduate Fellowship 2020.
