@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-11\. Sibo Wang, **Ruize Han**$^\dagger$, Wei Feng, Song Wang. Multiple Human Tracking in Non-specific Coverage with Wearable Cameras. IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021.
+12\. Ruize Han, Wei Feng, Yujun Zhang, Jiewen Zhao, Song Wang. Multiple Human Association and Tracking from Egocentric and Complementary Top Views, to appear in IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**). [[pdf](https://ieeexplore.ieee.org/document/9394804])
+
+11\. Sibo Wang, **Ruize Han**$^\dagger$, Wei Feng, Song Wang. Multiple Human Tracking in Non-specific Coverage with Wearable Cameras, IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021.
 
 10\. Jiewen Zhao<sup>&para;</sup>, **Ruize Han**<sup>&para;</sup>, Yiyang Gan<sup>&para;</sup>, Liang Wan, Wei Feng, Song Wang. Human Identification and Interaction Detection in Cross-View Multi-Person Videos with Wearable Cameras, ACM International Conference on Multimedia (**ACM MM**) 2020. `Co-first Author` [[PDF]](http://ruizehan.github.io/files/20-MM-CVID.pdf)
 
