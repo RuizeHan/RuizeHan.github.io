@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+* [2021.7] One paper about self-supervised multi-view tracking was accepted by _ACM MM 2021_.
 * [2021.6] The project of CVMHAT (TPAMI) was added, the code, video and annotations are all public. [[PROJECT]](https://github.com/RuizeHan/CVMHAT)
 * [2021.3] Complementary-View Multiple Human Association and Tracking (CVMHAT) was accepted by _IEEE TPAMI_.
 * [2021.2] One paper about multi-human tracking was accepted by _ICASSP 2021_. [[PROJECT]](https://github.com/github19970909/NSMHT)
