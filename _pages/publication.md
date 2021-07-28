@@ -8,13 +8,15 @@ redirect_from:
 ---
 
 {% include base_path %}
+13\. Yiyang Gan, **Ruize Han**$^\dagger$, Liqiang Yin, Wei Feng, Song Wang. Self-supervised Multi-view Multi-Human Association and Tracking, to appear in ACM Multimedia Conference (**ACM MM**), Chengdu, China, 2021. 
+
 12\. **Ruize Han**, Wei Feng, Yujun Zhang, Jiewen Zhao, Song Wang. Multiple Human Association and Tracking from Egocentric and Complementary Top Views, to appear in IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**). [[PDF]](https://ieeexplore.ieee.org/document/9394804)
 
-11\. Sibo Wang, **Ruize Han**$^\dagger$, Wei Feng, Song Wang. Multiple Human Tracking in Non-specific Coverage with Wearable Cameras, IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021.
+11\. Sibo Wang, **Ruize Han**$^\dagger$, Wei Feng, Song Wang. Multiple Human Tracking in Non-specific Coverage with Wearable Cameras, IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021. [[PDF]](http://ruizehan.github.io/files/21-ICASSP_NSMHT.pdf)
 
 10\. Jiewen Zhao<sup>&para;</sup>, **Ruize Han**<sup>&para;</sup>, Yiyang Gan<sup>&para;</sup>, Liang Wan, Wei Feng, Song Wang. Human Identification and Interaction Detection in Cross-View Multi-Person Videos with Wearable Cameras, ACM International Conference on Multimedia (**ACM MM**) 2020. `Co-first Author` [[PDF]](http://ruizehan.github.io/files/20-MM-CVID.pdf)
 
-9\. **Ruize Han**, Jiewen Zhao, Wei Feng, Yiyang Gan, Liang Wan, Song Wang. Complementary-View Co-Interest Person Detection,  ACM International Conference on Multimedia (**ACM MM**) 2020. [[PDF]](http://ruizehan.github.io/files/20-MM-CIP.pdf)
+9\. **Ruize Han**, Jiewen Zhao, Wei Feng, Yiyang Gan, Liang Wan, Song Wang. Complementary-View Co-Interest Person Detection, ACM International Conference on Multimedia (**ACM MM**) 2020. [[PDF]](http://ruizehan.github.io/files/20-MM-CIP.pdf)
 
 8\. **Ruize Han**, Wei Feng, Song Wang. Fast Learning of Spatially Regularized and Content Aware Correlation Filter for Visual Tracking, IEEE Transactions on Image Processing (**TIP**), 29:7128-7140, 2020. [[PDF]](http://ruizehan.github.io/files/20-TIP_WSCF.pdf)
 

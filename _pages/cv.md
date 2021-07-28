@@ -22,15 +22,15 @@ Education
 Representative Publications
 ======
 
- * **Ruize Han**, Wei Feng, Yujun Zhang, Jiewen Zhao, Song Wang. Multiple Human Association and Tracking from Egocentric and Complementary Top Views, to appear in __TPAMI__.
+ * **Ruize Han**, Wei Feng, Yujun Zhang, Jiewen Zhao, Song Wang. Multiple Human Association and Tracking from Egocentric and Complementary Top Views, to appear in __TPAMI__(Extended from __AAAI__ 2020).
  
  * **Ruize Han**, Jiewen Zhao, Wei Feng, Yiyang Gan, Liang Wan, Song Wang. Fast Complementary-View Co-Interest Person Detection, in __ACM__ __MM__, 2020.
 
- * Jiewen Zhao<sup>&para;</sup>, **Ruize Han**<sup>&para;</sup>, Yiyang Gan<sup>&para;</sup>, Liang Wan, Wei Feng, Song Wang. Human Identification and Interaction Detection in Cross-View Multi-Person Videos with Wearable Cameras, in __ACM__ __MM__, 2020.
+ * Yiyang Gan, **Ruize Han**$^\dagger$, Liqiang Yin, Wei Feng, Song Wang. Self-supervised Multi-view Multi-Human Association and Tracking, in __ACM__ __MM__, 2021.
 
  * **Ruize Han**, Wei Feng, Song Wang. Fast Learning of Spatially Regularized and Content Aware Correlation Filter for Visual Tracking, __IEEE__ __TIP__, 2020.
 
- * **Ruize Han**, Qing Guo, Wei Feng. Content-Related Spatial Regularization for Visual Object Tracking, in __ICME__, 2018. (Best Paper Award)
+ * **Ruize Han**, Qing Guo, Wei Feng. Content-Related Spatial Regularization for Visual Object Tracking, in __ICME__, 2018 (Best Paper Award). (Extended to __TIP__ 2019)
 
    
 Honors and Awards
@@ -44,7 +44,7 @@ Honors and Awards
 
 Academic Services
 ======
- * Reviewer of conference: ICCV, CVPR, AAAI, IJCAI, ICIP
+ * Reviewer of conference: ICCV, CVPR, AAAI, IJCAI, ICPR
  * Reviewer of journal: IEEE TPAMI, Neurocomputing, Pattern Recognition Letters, Electronic Letters
   
 Miscellaneous
