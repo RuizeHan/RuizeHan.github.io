@@ -22,7 +22,7 @@ Education
 Representative Publications
 ======
 
- * **Ruize Han**, Wei Feng, Yujun Zhang, Jiewen Zhao, Song Wang. Multiple Human Association and Tracking from Egocentric and Complementary Top Views, to appear in __TPAMI__. (Extended from __AAAI__ 2020).
+ * **Ruize Han**, Wei Feng, Yujun Zhang, Jiewen Zhao, Song Wang. Multiple Human Association and Tracking from Egocentric and Complementary Top Views, to appear in __IEEE__ __TPAMI__. (Extended from __AAAI__ 2020).
  
  * **Ruize Han**, Jiewen Zhao, Wei Feng, Yiyang Gan, Liang Wan, Song Wang. Fast Complementary-View Co-Interest Person Detection, in __ACM__ __MM__, 2020.
 
