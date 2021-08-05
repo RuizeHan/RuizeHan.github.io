@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-13\. Yiyang Gan, **Ruize Han**$^\dagger$, Liqiang Yin, Wei Feng, Song Wang. Self-supervised Multi-view Multi-Human Association and Tracking, to appear in ACM Multimedia Conference (**ACM MM**), Chengdu, China, 2021. 
+13\. Yiyang Gan, **Ruize Han**$^\dagger$, Liqiang Yin, Wei Feng, Song Wang. Self-supervised Multi-view Multi-Human Association and Tracking, to appear in ACM Multimedia Conference (**ACM MM**), Chengdu, China, 2021. `Oral` [[PDF]](http://ruizehan.github.io/files/21-MM_MvMHAT.pdf)
 
 12\. **Ruize Han**, Wei Feng, Yujun Zhang, Jiewen Zhao, Song Wang. Multiple Human Association and Tracking from Egocentric and Complementary Top Views, to appear in IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**). [[PDF]](https://ieeexplore.ieee.org/document/9394804)
 
