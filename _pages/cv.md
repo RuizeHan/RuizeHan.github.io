@@ -26,7 +26,7 @@ Representative Publications
  
  * **Ruize Han**, Jiewen Zhao, Wei Feng, Yiyang Gan, Liang Wan, Song Wang. Complementary-View Co-Interest Person Detection, in __ACM__ __MM__, 2020.
 
- * Yiyang Gan, **Ruize Han**$^\dagger$, Liqiang Yin, Wei Feng, Song Wang. Self-supervised Multi-view Multi-Human Association and Tracking, in __ACM__ __MM__, __Oral__ __Paper_, 2021.
+ * Yiyang Gan, **Ruize Han**$^\dagger$, Liqiang Yin, Wei Feng, Song Wang. Self-supervised Multi-view Multi-Human Association and Tracking, in __ACM__ __MM__, __Oral__ __Paper__, 2021.
 
  * **Ruize Han**, Wei Feng, Song Wang. Fast Learning of Spatially Regularized and Content Aware Correlation Filter for Visual Tracking, __IEEE__ __TIP__, 2020.
 
