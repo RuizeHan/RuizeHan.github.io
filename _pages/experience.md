@@ -25,14 +25,12 @@ redirect_from:
 ### Research Experience
 
 * Early 2019 -- Present : Multi-Camera Video Analysis
-  * Multiple human association and tracking (MHAT) across the top bird's eye view and horizontal egocentric view.
-  * Co-interest person (CIP) identification via the human visual attention using complementary-view moving cameras.
-  * Human-human interactions detection and recognition in crowded scene with wearable cameras.
+  * Multi-human association and tracking from the complementatry top view and horizontal egocentric view.
+  * Human social activity detection and interested person identification in the crowded scene.
+  * Spatial-temporal camera localization and alignment of the mobile-camera visual system.
 
-* Summer 2017 -- Present : Visual Object Tracking
-	* Design the dynamic/selective content-aware regularization in spatial-temporal domain for corrlation filter (CF) based visual object tracking.
-	* Propose a new weighting sample based approach for CF tracking to alleviate the boundary effects.
+* Summer 2017 -- Summer 2020 : Visual Object Tracking
+	* Improved content-aware spatial regularization for CF (Correlation Filter) tracking.
 	
 * Fall 2016 -- Summer 2017 : Visual Positioning & Precision Measurement
-	* Inspect the fine-grained change of cultural relics under real-world hosting environments via visual positioning and precision measurement.
-	* Active recurrence of lighting condition for fine-grained change detection.
+	* Active recurrence of camera imaging condition and fine-grained change detection for cultural relics.
