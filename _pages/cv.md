@@ -45,7 +45,7 @@ Honors and Awards
 Academic Services
 ======
  * Reviewer of conference: ICCV, CVPR, AAAI, IJCAI, ICPR
- * Reviewer of journal: IEEE TPAMI, Neurocomputing, Pattern Recognition Letters, Electronic Letters
+ * Reviewer of journal: IEEE TPAMI, IEEE TMM, Neurocomputing, Pattern Recognition Letters, Electronic Letters
   
 Miscellaneous
 ======

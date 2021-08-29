@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 * Reviewer of IEEE Transaction on Pattern Analysis and Machine Intelligence
+* Reviewer of IEEE Transaction on Multimedia
 * Reviewer of Neurocomputing
 * Reviewer of Pattern Recognition Letters
 * Reviewer of Electronics Letters
@@ -18,4 +19,4 @@ redirect_from:
 * Reviewer of AAAI-21
 * Reviewer of IJCAI-20
 * Reviewer of ICPR-18
-* Reviewing for NeurIPS, TIP, TMM
+* Reviewing for NeurIPS, TIP
