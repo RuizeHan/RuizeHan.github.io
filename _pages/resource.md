@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Dateset"
-permalink: /resource/
+permalink: /dataset/
 author_profile: true
 redirect_from:
   - /resume
