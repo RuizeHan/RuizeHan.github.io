@@ -16,7 +16,7 @@ redirect_from:
 * Reviewer of Electronics Letters
 * Reviewer of ICCV-21
 * Reviewer of CVPR-21
-* Reviewer of AAAI-21, 22
+* Reviewer of AAAI-21
 * Reviewer of IJCAI-20
 * Reviewer of ICPR-18
 * Reviewing for NeurIPS, TIP
