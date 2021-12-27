@@ -45,7 +45,7 @@ redirect_from:
 
 ## Category III: Single-view multi-human video analysis dataset
 
-### 1. Association and Tracking Dataset (Video):
+### 1. Wearable Camera Tracking Dataset (Video):
 
 **Link (Baidu Netdisk)**: [https://pan.baidu.com/share/init?surl=YqSQnps8uUHEFtoW79ONvA](https://pan.baidu.com/share/init?surl=YqSQnps8uUHEFtoW79ONvA) Password：vwa9
 
