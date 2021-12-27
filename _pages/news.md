@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-* [2021.12] Deep Assignment Network (DAN) for MvMHA was accepted by _IEEE TIP_. [[PROJECT]](https://github.com/RuizeHan/DAN4Ass)
+* [2021.12] Deep Assignment Network (DAN) for MvMHA was accepted by _IEEE TIP_.
 * [2021.12] I obtained the Grand Prize in the National Postdoctoral Academic Forum on Information Innovation and Artificial Intelligence Development
 * [2021.7] Self-supervised MvMHAT was accepted by _ACM MM 2021_ as Oral paper. [[PROJECT]](https://github.com/realgump/MvMHAT)
 * [2021.6] The project of CVMHAT (TPAMI) was added, the code, video and annotations are all public. [[PROJECT]](https://github.com/RuizeHan/CVMHAT)
