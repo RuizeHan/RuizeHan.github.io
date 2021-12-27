@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+* [2021.12] Deep Assignment Network (DAN) for MvMHA was accepted by _IEEE TIP_. [[PROJECT]](https://github.com/RuizeHan/DAN4Ass)
+* [2021.12] I obtained the Grand Prize in the National Postdoctoral Academic Forum on Information Innovation and Artificial Intelligence Development
 * [2021.7] Self-supervised MvMHAT was accepted by _ACM MM 2021_ as Oral paper. [[PROJECT]](https://github.com/realgump/MvMHAT)
 * [2021.6] The project of CVMHAT (TPAMI) was added, the code, video and annotations are all public. [[PROJECT]](https://github.com/RuizeHan/CVMHAT)
 * [2021.3] Complementary-View Multiple Human Association and Tracking (CVMHAT) was accepted by _IEEE TPAMI_.
@@ -26,6 +28,5 @@ redirect_from:
 * We achieved the [best paper award](http://www.icme2018.org/conf_awards) of _ICME 2018_.
 * The project page of CRSRCF was added. [[PROJECT]](https://github.com/RuizeHan/CRSRCF)
 * One paper on tracking Content-Related Spatial Regularization for CF (CRSRCF) were accepted by _ICME 2018_.
-* [2021.12] Deep Assignment Network (DAN) for MvMHA was accepted by _IEEE TIP_. [[PROJECT]](https://github.com/RuizeHan/DAN4Ass)
 
 
