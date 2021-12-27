@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-## Category I: Complementary-view multi-human video analysis dataset
+## Category I: Complementary-view multi-human video analysis datasets
 
-### 1. Complementary-View Multiple Human Association and Tracking：
+### 1. Human association and tracking task：
 
 <img src="http://ruizehan.github.io/images/cvmhat.png" width="625" height="250" alt="example"/><br/>
 
@@ -19,7 +19,7 @@ redirect_from:
 
 **Project**: https://github.com/RuizeHan/CVMHAT
 
-### 2. Complementary-View Co-Interest Person Detection Dataset:
+### 2. Complementary-view co-interest person detection task:
 
 <img src="http://ruizehan.github.io/images/cip.jpg" width="625" height="250" alt="example"/><br/>
 
@@ -27,25 +27,27 @@ redirect_from:
 
 **Project**: https://github.com/RuizeHan/CIP
 
-## Category II: Multi-view multi-human video analysis dataset
+## Category II: Multi-view multi-human video analysis datasets
 
-### 1. Association Dataset (Image):
+<img src="http://ruizehan.github.io/images/mvmhat.png" width="625" height="343" alt="example"/><br/>
+
+### 1. Association task (Image):
 
 [Coming soon...]
 
-### 2. Association and Tracking Dataset (Video):
+### 2. Association and tracking task (Video):
 
 **Link (Baidu Netdisk)**: [https://pan.baidu.com/s/1gsYTHffmfRq84Hn-8XtzDQ](https://pan.baidu.com/s/1gsYTHffmfRq84Hn-8XtzDQ) Password：2cfh
 
 **Project**: https://github.com/realgump/MvMHAT
 
-### 3. Interaction Detection Dataset (Video):
+### 3. Interaction detection task (Video):
 
 [Coming soon...]
 
-## Category III: Single-view multi-human video analysis dataset
+## Category III: Single-view multi-human video analysis datasets
 
-### 1. Wearable Camera Tracking Dataset (Video):
+### 1. Wearable camera tracking task:
 
 **Link (Baidu Netdisk)**: [https://pan.baidu.com/share/init?surl=YqSQnps8uUHEFtoW79ONvA](https://pan.baidu.com/share/init?surl=YqSQnps8uUHEFtoW79ONvA) Password：vwa9
 
