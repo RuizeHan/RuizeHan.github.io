@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Proposed Datasets based on the *Mobile Camera Network*"
+title: "Mobile Camera Network based Datasets"
 permalink: /dataset/
 author_profile: true
 redirect_from:
@@ -45,7 +45,7 @@ redirect_from:
 
 **Link** (Baidu Netdisk): [https://pan.baidu.com/s/1qbjnMTXg9-w5XL4ZeTXCLA](https://pan.baidu.com/s/1qbjnMTXg9-w5XL4ZeTXCLA) **Password**：7t5y
 
-Project: https://github.com/RuizeHan/CVID
+**Project**: https://github.com/RuizeHan/CVID
 
 ## Category III: Single-view multi-human video analysis datasets
 
