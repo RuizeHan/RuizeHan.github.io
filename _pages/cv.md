@@ -24,7 +24,7 @@ Representative Publications
 
  * **Ruize Han**, Wei Feng, Yujun Zhang, Jiewen Zhao, Song Wang. Multiple Human Association and Tracking from Egocentric and Complementary Top Views, to appear in __IEEE__ __TPAMI__. (Extended from __AAAI__ 2020).
  
- * **Ruize Han**, Wei Feng, Song Wang. Multi-view Multi-Human Association with Deep Assignment Network, __IEEE__ __TIP__, 2022.
+ * **Ruize Han**, Yun Wang, Haomin Yan, Wei Feng, Song Wang. Multi-view Multi-Human Association with Deep Assignment Network, __IEEE__ __TIP__, 2022.
  
  * **Ruize Han**, Jiewen Zhao, Wei Feng, Yiyang Gan, Liang Wan, Song Wang. Complementary-View Co-Interest Person Detection, in __ACM__ __MM__, 2020.
 
@@ -44,7 +44,7 @@ Honors and Awards
 
 Academic Services
 ======
- * Reviewer of conference: ICCV, CVPR, AAAI, IJCAI, ICPR
+ * Reviewer of conference: ICCV, CVPR, AAAI, IJCAI, ICME, ICPR
  * Reviewer of journal: IEEE TPAMI, IEEE TMM, Neurocomputing, Pattern Recognition Letters, Electronic Letters
   
 Miscellaneous
