@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-15\. **Ruize Han**, Yun Wang, Haomin Yan, Wei Feng, Song Wang. Multi-view Multi-Human Association with Deep Assignment Network, to appear in IEEE Transactions on Image Processing (**TIP**), 2022. [[PDF]](https://ieeexplore.ieee.org/document/9693506)
+15\. **Ruize Han**, Yun Wang, Haomin Yan, Wei Feng, Song Wang. Multi-view Multi-Human Association with Deep Assignment Network, IEEE Transactions on Image Processing (**TIP**), 31:1830-1840, 2022. [[PDF]](https://ieeexplore.ieee.org/document/9693506)
 
 14\. Jiacheng Li, Ruirui Li, **Ruize Han**, Song Wang. Self-Relabeling for Noise-Tolerant Retina Vessel Segmentation through Label Reliability Estimation, BMC Medical Imaging, 22:8, 2022.
 

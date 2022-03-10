@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+* [2022.3] Complementary-View Deep Multiple Human Association (DMHA) was accepted by _CVPR 2022_.
 * [2022.1] A survey paper about visual object tracking was accepted by _Chinese Journal of Computers_ (in Chinese).
 * [2021.12] Deep Assignment Network (DAN) for MvMHA was accepted by _IEEE TIP_.
 * [2021.12] I obtained the Grand Prize in the National Postdoctoral Academic Forum on Information Innovation and Artificial Intelligence Development
