@@ -8,6 +8,12 @@ redirect_from:
 ---
 {% include base_path %}
 
+18\. **Ruize Han**, Yiyang Gan, Jiacheng Li, Feifan Wang, Wei Feng, Song Wang. Connecting the Complementary-view Videos: Joint Camera Identification and Subject Association , to appear in IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), New Orleans, LA, 2022.
+
+17\. Jiewen Zhao, **Ruize Han**, Xiaoyu Zhang, Liang Wan. Deep Multi-Task Learning based Fingertip Detection, Computational Visual Media Conference, 2022. [[PDF]](http://iccvm.org/2022/papers/poster-6.pdf)
+
+16\. **Ruize Han**, Wei Feng, Qing Guo, Qinghua Hu. Single Object Tracking Research : A Survey, to appear in Chinese Journal of Computers (in Chinese), 2022. [[PDF]](https://cjc.ict.ac.cn/online/bfpub/hrz-2022331103231.pdf)
+
 15\. **Ruize Han**, Yun Wang, Haomin Yan, Wei Feng, Song Wang. Multi-view Multi-Human Association with Deep Assignment Network, IEEE Transactions on Image Processing (**TIP**), 31:1830-1840, 2022. [[PDF]](https://ieeexplore.ieee.org/document/9693506)
 
 14\. Jiacheng Li, Ruirui Li, **Ruize Han**, Song Wang. Self-Relabeling for Noise-Tolerant Retina Vessel Segmentation through Label Reliability Estimation, BMC Medical Imaging, 22:8, 2022.
