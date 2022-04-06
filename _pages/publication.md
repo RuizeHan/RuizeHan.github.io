@@ -8,9 +8,9 @@ redirect_from:
 ---
 {% include base_path %}
 
-18\. **Ruize Han**, Yiyang Gan, Jiacheng Li, Feifan Wang, Wei Feng, Song Wang. Connecting the Complementary-view Videos: Joint Camera Identification and Subject Association , to appear in IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), New Orleans, LA, 2022.
+18\. **Ruize Han**, Yiyang Gan, Jiacheng Li, Feifan Wang, Wei Feng, Song Wang. Connecting the Complementary-view Videos: Joint Camera Identification and Subject Association, to appear in IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), New Orleans, USA, 2022.
 
-17\. Jiewen Zhao, **Ruize Han**, Xiaoyu Zhang, Liang Wan. Deep Multi-Task Learning based Fingertip Detection, Computational Visual Media Conference, 2022. [[PDF]](http://iccvm.org/2022/papers/poster-6.pdf)
+17\. Jiewen Zhao, **Ruize Han**, Xiaoyu Zhang, Liang Wan. Deep Multi-Task Learning based Fingertip Detection, Computational Visual Media Conference, Beijing, China, 2022. [[PDF]](http://iccvm.org/2022/papers/poster-6.pdf)
 
 16\. **Ruize Han**, Wei Feng, Qing Guo, Qinghua Hu. Single Object Tracking Research : A Survey, to appear in Chinese Journal of Computers (in Chinese), 2022. [[PDF]](https://cjc.ict.ac.cn/online/bfpub/hrz-2022331103231.pdf)
 
@@ -34,7 +34,7 @@ redirect_from:
 
 6\. Qing Guo, **Ruize Han**, Wei Feng, Zhihao Chen, Liang Wan. Selective Spatial Regularization by Reinforcement Learned Decision Making for Object Tracking, IEEE Transactions on Image Processing (**TIP**), 29:2999-3013, 2020. [[PDF]](http://ruizehan.github.io/files/20-TIP_SSR.pdf)
 
-5\. **Ruize Han**, Wei Feng, Jiewen Zhao, Zicheng Niu, Yujun Zhang, Liang Wan, Song Wang. Complementary-View Multiple Human Tracking, AAAI Conference on Artificial Intelligence (**AAAI**), 10917-10924, New York, NY, 2020. [[PDF]](http://ruizehan.github.io/files/20-AAAI_CVMHT.pdf)
+5\. **Ruize Han**, Wei Feng, Jiewen Zhao, Zicheng Niu, Yujun Zhang, Liang Wan, Song Wang. Complementary-View Multiple Human Tracking, AAAI Conference on Artificial Intelligence (**AAAI**), 10917-10924, New York, USA, 2020. [[PDF]](http://ruizehan.github.io/files/20-AAAI_CVMHT.pdf)
 
 4\. Kuan Li, Yi Jin, Muhammad Waqar Akram, **Ruize Han**, Jiongwei Chen. Facial expression recognition with convolutional neural networks via a new face cropping and rotation strategy. The Visual Computer, 36(2):391-404, 2020. [[PDF]](http://ruizehan.github.io/files/19-VisCom.pdf)
 
