@@ -11,41 +11,47 @@ redirect_from:
 
 ## Category I: Complementary-view multi-human video analysis datasets
 
-### 1. Human association and tracking task：
+### 1. Human association and tracking task (Real-world)：
 
 <img src="http://ruizehan.github.io/images/cvmhat.png" width="625" height="250" alt="example"/><br/>
 
 **Link** (Baidu Netdisk): [https://pan.baidu.com/s/1dS9sGqxOcaDsxddl6r2OKA](https://pan.baidu.com/s/1dS9sGqxOcaDsxddl6r2OKA) **Password**: CVHT
 
-**Project**: https://github.com/RuizeHan/CVMHAT
+**Project** (TPAMI 2021): https://github.com/RuizeHan/CVMHAT
 
-### 2. Complementary-view co-interest person detection task:
+### 2. Human association task (Synthetic)：
 
-<img src="http://ruizehan.github.io/images/cip.jpg" width="625" height="250" alt="example"/><br/>
+**Link** (Baidu Netdisk)：https://pan.baidu.com/s/1u_ed8w4cTe_w9bz1_Sk2ZA **Password**：DMHA
+
+**Project** (CVPR 2022): https://github.com/RuizeHan/DMHA
+
+### 3. Complementary-view co-interest person detection task:
+
+% <img src="http://ruizehan.github.io/images/cip.jpg" width="625" height="250" alt="example"/><br/> %
 
 **Link** (Baidu Netdisk): [https://pan.baidu.com/s/1BAM_MD1Lya5zf-O4OzJFnw](https://pan.baidu.com/s/1BAM_MD1Lya5zf-O4OzJFnw) **Password**: CVIP
 
-**Project**: https://github.com/RuizeHan/CIP
+**Project** (ACM MM 2020): https://github.com/RuizeHan/CIP
 
-## Category II: Multi-view multi-human video analysis datasets
+## Category II: Dynamic multi-view multi-human video analysis datasets
 
 <img src="http://ruizehan.github.io/images/mvmhat.png" width="625" height="343" alt="example"/><br/>
 
-### 1. Association task (Image):
+### 1. Image based association task:
 
 Synthetic Dataset: **Link** (Baidu Netdisk): [https://pan.baidu.com/s/1GQ7Zy1d2lkYhV0hlT0GUfQ](https://pan.baidu.com/s/1GQ7Zy1d2lkYhV0hlT0GUfQ) **Password**: MMHA
 
 Real-World Dataset: **Link** (Baidu Netdisk): [https://pan.baidu.com/s/1aR0-7gh4BQNDZ3bT-HR-Wg](https://pan.baidu.com/s/1aR0-7gh4BQNDZ3bT-HR-Wg) **Password**: MMHA
 
-**Project**: https://github.com/RuizeHan/DAN4Ass
+**Project** (TIP 2022): https://github.com/RuizeHan/DAN4Ass
 
-### 2. Association and tracking task (Video):
+### 2. Association and tracking task:
 
 **Link** (Baidu Netdisk): [https://pan.baidu.com/s/1gsYTHffmfRq84Hn-8XtzDQ](https://pan.baidu.com/s/1gsYTHffmfRq84Hn-8XtzDQ) **Password**：2cfh
 
-**Project**: https://github.com/realgump/MvMHAT
+**Project** (ACM MM 2021): https://github.com/realgump/MvMHAT
 
-### 3. Cross-view human interaction detection task (Video):
+### 3. Human interaction detection task:
 
 **Link** (Baidu Netdisk): [https://pan.baidu.com/s/1qbjnMTXg9-w5XL4ZeTXCLA](https://pan.baidu.com/s/1qbjnMTXg9-w5XL4ZeTXCLA) **Password**：7t5y
 
