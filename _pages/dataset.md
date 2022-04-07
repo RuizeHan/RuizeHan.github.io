@@ -27,7 +27,7 @@ redirect_from:
 
 ### 3. Complementary-view co-interest person detection task:
 
-% <img src="http://ruizehan.github.io/images/cip.jpg" width="625" height="250" alt="example"/><br/> %
+{% <img src="http://ruizehan.github.io/images/cip.jpg" width="625" height="250" alt="example"/><br/> %}
 
 **Link** (Baidu Netdisk): [https://pan.baidu.com/s/1BAM_MD1Lya5zf-O4OzJFnw](https://pan.baidu.com/s/1BAM_MD1Lya5zf-O4OzJFnw) **Password**: CVIP
 
