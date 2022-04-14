@@ -14,7 +14,7 @@ redirect_from:
 
 16\. **Ruize Han**, Wei Feng, Qing Guo, Qinghua Hu. Single Object Tracking Research : A Survey, to appear in Chinese Journal of Computers (in Chinese), 2022. [[PDF]](https://cjc.ict.ac.cn/online/bfpub/hrz-2022331103231.pdf)
 
-15\. **Ruize Han**, Yun Wang, Haomin Yan, Wei Feng, Song Wang. Multi-view Multi-Human Association with Deep Assignment Network, IEEE Transactions on Image Processing (**TIP**), 31:1830-1840, 2022. [[PDF]](http://ruizehan.github.io/files/21-TIP_MvMHA.pdf)
+15\. **Ruize Han**, Yun Wang, Haomin Yan, Wei Feng, Song Wang. Multi-view Multi-Human Association with Deep Assignment Network, IEEE Transactions on Image Processing (**TIP**), 31:1830-1840, 2022. [[PDF]](http://ruizehan.github.io/files/22-TIP_MvMHA.pdf)
 
 14\. Jiacheng Li, Ruirui Li, **Ruize Han**, Song Wang. Self-Relabeling for Noise-Tolerant Retina Vessel Segmentation through Label Reliability Estimation, BMC Medical Imaging, 22:8, 2022. [[PDF]](https://bmcmedimaging.biomedcentral.com/track/pdf/10.1186/s12880-021-00732-y.pdf)
 
