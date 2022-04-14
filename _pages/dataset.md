@@ -11,9 +11,9 @@ redirect_from:
 
 ## Category I: Complementary-view multi-human video analysis datasets
 
-### 1. Human association and tracking task (Real-world)：
-
 <img src="http://ruizehan.github.io/images/cvmhat.png" width="625" height="250" alt="example"/><br/>
+
+### 1. Human association and tracking task (Real-world)：
 
 **Link** (Baidu Netdisk): [https://pan.baidu.com/s/1dS9sGqxOcaDsxddl6r2OKA](https://pan.baidu.com/s/1dS9sGqxOcaDsxddl6r2OKA) **Password**: CVHT
 
@@ -54,7 +54,7 @@ Real-World Dataset: **Link** (Baidu Netdisk): [https://pan.baidu.com/s/1aR0-7gh4
 
 **Link** (Baidu Netdisk): [https://pan.baidu.com/s/1qbjnMTXg9-w5XL4ZeTXCLA](https://pan.baidu.com/s/1qbjnMTXg9-w5XL4ZeTXCLA) **Password**：7t5y
 
-**Project**: https://github.com/RuizeHan/CVID
+**Project** (ACM MM 2020): https://github.com/RuizeHan/CVID
 
 ## Category III: Single-view multi-human video analysis datasets
 

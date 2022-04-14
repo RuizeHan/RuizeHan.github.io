@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Download the [CV](http://ruizehan.github.io/files/resume-21-08.pdf) PDF (2021-08)
+Download the [CV](http://ruizehan.github.io/files/resume-22-03.pdf) PDF (2021-08)
 
 Education
 ======
 
-* Ph.D student, Computer Application Technology, Tianjin University (TJU), Tian Jin, China, 2019 -- Present
-* M,Eng., Computer Technology Engineering, Tianjin University (TJU), Tian Jin, China, 2016 -- 2019
+* Ph.D student, Computer Application Technology, Tianjin University (TJU), Tianjin, China, 2019 -- Present
+* M,Eng., Computer Technology Engineering, Tianjin University (TJU), Tianjin, China, 2016 -- 2019
 * B.S., Mathematics and Applied Mathematics, Hebei University of Technology, Tianjin, China, 2012 -- 2016
 
 
