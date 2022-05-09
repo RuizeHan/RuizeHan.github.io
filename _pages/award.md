@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-* 2021 China International College Students’ ‘Internet+’ Innovation and Entrepreneurship Competition, Tianjin Gold Prize
-* 2021 China National Postdoctoral Academic Forum on Information Innovation and Artificial Intelligence Development, Grand Prize
+* 2021 International College Students’ ‘Internet+’ Innovation and Entrepreneurship Competition, Tianjin Gold Prize
+* 2021 National Postdoctoral Academic Forum on Information Innovation and Artificial Intelligence Development, Grand Prize
 * 2020 National Graduate Fellowship
 * 2018 National Graduate Fellowship
 * 2018 IEEE ICME Best Paper Award

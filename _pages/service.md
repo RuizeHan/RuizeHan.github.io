@@ -11,7 +11,7 @@ redirect_from:
 
 * Reviewer of IEEE Transaction on Pattern Analysis and Machine Intelligence
 * Reviewer of IEEE Transaction on Multimedia
-* IEEE Transactions on Circuits and Systems for Video Technology
+* Reviewer of IEEE Transactions on Circuits and Systems for Video Technology
 * Reviewer of Neurocomputing
 * Reviewer of Pattern Recognition Letters
 * Reviewer of Electronics Letters
