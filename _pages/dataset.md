@@ -21,7 +21,7 @@ redirect_from:
 
 ### 2. Human association task (Synthetic)：
 
-**Link**：[Baidu Netdisk]https://pan.baidu.com/s/1u_ed8w4cTe_w9bz1_Sk2ZA  **Password**：DMHA
+**Link**：[Baidu Netdisk](https://pan.baidu.com/s/1u_ed8w4cTe_w9bz1_Sk2ZA)  **Password**：DMHA
 
 **Project** (CVPR 2022): https://github.com/RuizeHan/DMHA
 
@@ -52,7 +52,7 @@ Real-World Dataset: **Link**: [Baidu Netdisk](https://pan.baidu.com/s/1aR0-7gh4B
 
 ### 3. Human interaction detection task:
 
-**Link**: [Baidu Netdisk]https://pan.baidu.com/s/1Zju6rBcE4QSjcidwlqmhpw **Password**：CVID
+**Link**: [Baidu Netdisk](https://pan.baidu.com/s/1Zju6rBcE4QSjcidwlqmhpw) **Password**：CVID
 
 **Project** (ACM MM 2020): https://github.com/RuizeHan/CVID
 
