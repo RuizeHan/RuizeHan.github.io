@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-18\. **Ruize Han**, Yiyang Gan, Jiacheng Li, Feifan Wang, Wei Feng, Song Wang. Connecting the Complementary-view Videos: Joint Camera Identification and Subject Association, to appear in IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), New Orleans, USA, 2022.
+18\. **Ruize Han**, Yiyang Gan, Jiacheng Li, Feifan Wang, Wei Feng, Song Wang. Connecting the Complementary-view Videos: Joint Camera Identification and Subject Association, IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), New Orleans, USA, 2022. [[PDF]](https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Connecting_the_Complementary-View_Videos_Joint_Camera_Identification_and_Subject_Association_CVPR_2022_paper.pdf)
 
 17\. Jiewen Zhao, **Ruize Han**, Xiaoyu Zhang, Liang Wan. Deep Multi-Task Learning based Fingertip Detection, Computational Visual Media Conference, Beijing, China, 2022. [[PDF]](http://iccvm.org/2022/papers/poster-6.pdf)
 
