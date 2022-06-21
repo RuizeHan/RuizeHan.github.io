@@ -22,15 +22,15 @@ Education
 Representative Publications
 ======
 
- * **Ruize Han**, Wei Feng, Yujun Zhang, Jiewen Zhao, Song Wang. Multiple Human Association and Tracking from Egocentric and Complementary Top Views, to appear in __IEEE__ __TPAMI__. (Extended from __AAAI__ 2020).
+ * **Ruize Han**, Wei Feng, Yujun Zhang, Jiewen Zhao, Song Wang. Multiple Human Association and Tracking from Egocentric and Complementary Top Views, __AAAI__ 2020 \& __IEEE__ __TPAMI__ 2021.
  
  * **Ruize Han**, Yiyang Gan, Jiacheng Li, Feifan Wang, Wei Feng, Song Wang. Connecting the Complementary-view Videos: Joint Camera Identification and Subject Association, in __CVPR__, 2022.
  
- * **Ruize Han**, Yun Wang, Haomin Yan, Wei Feng, Song Wang. Multi-view Multi-Human Association with Deep Assignment Network, __IEEE__ __TIP__, 2022.
+ * **Ruize Han**, Yun Wang, Haomin Yan, Wei Feng, Song Wang. Multi-view Multi-Human Association with Deep Assignment Network, __IEEE__ __TIP__ 2022.
  
- * Yiyang Gan, **Ruize Han**$^\dagger$, Liqiang Yin, Wei Feng, Song Wang. Self-supervised Multi-view Multi-Human Association and Tracking, in __ACM__ __MM__, __Oral__ __Paper__, 2021.
+ * Yiyang Gan, **Ruize Han**$^\dagger$, Liqiang Yin, Wei Feng, Song Wang. Self-supervised Multi-view Multi-Human Association and Tracking, in __ACM__ __MM__ 2021, __Oral__ __Paper__.
 
- * **Ruize Han**, Qing Guo, Wei Feng. Content-Related Spatial Regularization for Visual Object Tracking, in __ICME__, 2018, __Best__ __Paper__ __Award__. (Extended to __IEEE__ __TIP__ 2019)
+ * **Ruize Han**, Qing Guo, Wei Feng. Content-Related Spatial Regularization for Visual Object Tracking, in __ICME__ 2018 (__Best__ __Paper__ __Award__) \& __IEEE__ __TIP__ 2019.
 
    
 Honors and Awards
