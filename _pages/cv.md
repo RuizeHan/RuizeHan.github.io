@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download the [CV](http://ruizehan.github.io/files/resume-22-03.pdf) PDF (2022-03)
+Download the [CV](http://ruizehan.github.io/files/resume_ruize_221010.pdf) PDF (2022-10)
 
 Education
 ======
@@ -28,7 +28,7 @@ Representative Publications
  
  * **Ruize Han**, Yun Wang, Haomin Yan, Wei Feng, Song Wang. Multi-view Multi-Human Association with Deep Assignment Network, __IEEE__ __TIP__ 2022.
  
- * Yiyang Gan, **Ruize Han**$^\dagger$, Liqiang Yin, Wei Feng, Song Wang. Self-supervised Multi-view Multi-Human Association and Tracking, in __ACM__ __MM__ 2021, __Oral__ __Paper__.
+ * **Ruize Han**, Haomin Yan, Jiacheng Li, Wei Feng, Songmiao Wang, Song Wang. Panoramic Human Activity Recognition, in __ECCV__ 2022.
 
  * **Ruize Han**, Qing Guo, Wei Feng. Content-Related Spatial Regularization for Visual Object Tracking, in __ICME__ 2018 (__Best__ __Paper__ __Award__) & __IEEE__ __TIP__ 2019.
 
