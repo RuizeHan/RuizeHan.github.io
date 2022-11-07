@@ -8,11 +8,19 @@ redirect_from:
 ---
 {% include base_path %}
 
+
+
+21\. **Ruize Han**, Haomin Yan, Jiacheng Li, Wei Feng, Songmiao Wang, Song Wang. Panoramic Human Activity Recognition, in ECCV 2022. [[PDF]](http://ruizehan.github.io/files/22-ECCV-PanoAct.pdf)
+
+20\. Jiacheng Li, **Ruize Han**$^\dagger$, Haomin Yan, Zekun Qian, Wei Feng, Song Wang. Self-supervised Social Relation Representation for Human Group Detection, in ECCV 2022. (Oral, Acceptance rate 2.7%). [[PDF]](http://ruizehan.github.io/files/22-ECCV-SGD.pdf)
+
+19\. Liqiang Yin<sup>&para;</sup>, **Ruize Han**<sup>&para;</sup>, Wei Feng, Song Wang. Self-Supervised Human Pose based Multi-Camera Video Synchronization, in ACM MM 2022. [[PDF]](http://ruizehan.github.io/files/22-MM-Syn.pdf)
+
 18\. **Ruize Han**, Yiyang Gan, Jiacheng Li, Feifan Wang, Wei Feng, Song Wang. Connecting the Complementary-view Videos: Joint Camera Identification and Subject Association, IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), New Orleans, USA, 2022. [[PDF]](https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Connecting_the_Complementary-View_Videos_Joint_Camera_Identification_and_Subject_Association_CVPR_2022_paper.pdf)
 
 17\. Jiewen Zhao, **Ruize Han**, Xiaoyu Zhang, Liang Wan. Deep Multi-Task Learning based Fingertip Detection, Computational Visual Media Conference, Beijing, China, 2022. [[PDF]](http://iccvm.org/2022/papers/poster-6.pdf)
 
-16\. **Ruize Han**, Wei Feng, Qing Guo, Qinghua Hu. Single Object Tracking Research : A Survey, to appear in Chinese Journal of Computers (in Chinese), 2022. [[PDF]](https://cjc.ict.ac.cn/online/bfpub/hrz-2022331103231.pdf)
+16\. **Ruize Han**, Wei Feng, Qing Guo, Qinghua Hu. Single Object Tracking Research : A Survey, to appear in Chinese Journal of Computers (in Chinese), 2022. [[PDF]](http://ruizehan.github.io/files/22-CJC-survey.pdf)
 
 15\. **Ruize Han**, Yun Wang, Haomin Yan, Wei Feng, Song Wang. Multi-view Multi-Human Association with Deep Assignment Network, IEEE Transactions on Image Processing (**TIP**), 31:1830-1840, 2022. [[PDF]](http://ruizehan.github.io/files/22-TIP_MvMHA.pdf)
 
