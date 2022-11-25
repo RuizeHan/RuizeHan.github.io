@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-* [2022.11] I gave a academic talk on techbeat.[[LINK]](https://www.techbeat.net/talk-info?id=730)
+* [2022.11] I gave an academic talk on techbeat about our works in CVPR-22, TPAMI-21 and ECCV-22.[[LINK]](https://www.techbeat.net/talk-info?id=730)
 * [2022.07] Two papers (one oral, one poster) about multi-person social relation detection or activity recognition were accepted by _ECCV 2022_.
 * [2022.06] One paper about multi-view video synchronization was accepted by _ACM MM 2022_.
 * [2022.3] Complementary-View Deep Multiple Human Association (DMHA) was accepted by _CVPR 2022_.
