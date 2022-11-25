@@ -26,15 +26,16 @@ Representative Publications
  
  * **Ruize Han**, Yiyang Gan, Jiacheng Li, Feifan Wang, Wei Feng, Song Wang. Connecting the Complementary-view Videos: Joint Camera Identification and Subject Association, in __CVPR__, 2022.
  
+ * **Ruize Han**, Haomin Yan, Jiacheng Li, Wei Feng, Songmiao Wang, Song Wang. Panoramic Human Activity Recognition, in __ECCV__ 2022.
+ 
  * **Ruize Han**, Yun Wang, Haomin Yan, Wei Feng, Song Wang. Multi-view Multi-Human Association with Deep Assignment Network, __IEEE__ __TIP__ 2022.
  
- * **Ruize Han**, Haomin Yan, Jiacheng Li, Wei Feng, Songmiao Wang, Song Wang. Panoramic Human Activity Recognition, in __ECCV__ 2022.
-
  * **Ruize Han**, Qing Guo, Wei Feng. Content-Related Spatial Regularization for Visual Object Tracking, in __ICME__ 2018 (__Best__ __Paper__ __Award__) & __IEEE__ __TIP__ 2019.
 
    
 Honors and Awards
 ======
+* 2022 National Graduate Scholarship 
 * 2020 National Graduate Scholarship 
 * 2018 National Graduate Scholarship 
 * 2018 ICME Best Paper Award 
@@ -44,8 +45,8 @@ Honors and Awards
 
 Academic Services
 ======
- * Reviewer of conference: ICCV, CVPR, AAAI, IJCAI, ICME, ICPR
- * Reviewer of journal: IEEE TPAMI, IEEE TMM, Neurocomputing, Pattern Recognition Letters, Electronic Letters
+ * Reviewer of conference: ICCV, CVPR, ECCV, AAAI, IJCAI, ICME, etc.
+ * Reviewer of journal: IEEE TPAMI, IEEE TMM, IEEE TCSVT, Pattern Recognition, etc.
   
 Miscellaneous
 ======
