@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+* 2022 National Graduate Scholarship 
 * 2021 International College Students’ ‘Internet+’ Innovation and Entrepreneurship Competition, Tianjin Gold Prize
 * 2021 National Postdoctoral Academic Forum on Information Innovation and Artificial Intelligence Development, Grand Prize
 * 2020 National Graduate Fellowship
