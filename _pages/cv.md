@@ -32,20 +32,10 @@ Representative Publications
  
  * **Ruize Han**, Qing Guo, Wei Feng. Content-Related Spatial Regularization for Visual Object Tracking, in __ICME__ 2018 (__Best__ __Paper__ __Award__) & __IEEE__ __TIP__ 2019.
 
-   
-Honors and Awards
-======
-* 2022 National Graduate Scholarship 
-* 2020 National Graduate Scholarship 
-* 2018 National Graduate Scholarship 
-* 2018 ICME Best Paper Award 
-* 2016 Excellent Graduation Design in Hebei University of Technology
-* 2015 National Encouragement Scholarshi
-* 2014 National Second Prize of National Mathematical Contest in Modeling for College Students
-
+ 
 Academic Services
 ======
- * Reviewer of conference: ICCV, CVPR, ECCV, AAAI, IJCAI, ICME, etc.
+ * Reviewer of conference: ICCV, CVPR, ECCV, AAAI, IJCAI, ICME, ICASSP, etc.
  * Reviewer of journal: IEEE TPAMI, IEEE TMM, IEEE TCSVT, Pattern Recognition, etc.
   
 Miscellaneous
