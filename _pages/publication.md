@@ -8,13 +8,13 @@ redirect_from:
 ---
 {% include base_path %}
 
+22\. **Ruize Han**<sup>&para;</sup>, Yiyang Gan<sup>&para;</sup>, Likai Wang, Nan Li, Wei Feng, Song Wang. Relating View Directions of Complementary-View Mobile Cameras via the Human Shadow, International Journal of Computer Vision, (**IJCV**), 2023. [[PDF]](https://link.springer.com/article/10.1007/s11263-022-01744-z)
 
+21\. **Ruize Han**, Haomin Yan, Jiacheng Li, Wei Feng, Songmiao Wang, Song Wang. Panoramic Human Activity Recognition, in European Conference on Computer Vision (**ECCV**), 2022. [[PDF]](http://ruizehan.github.io/files/22-ECCV-PanoAct.pdf)
 
-21\. **Ruize Han**, Haomin Yan, Jiacheng Li, Wei Feng, Songmiao Wang, Song Wang. Panoramic Human Activity Recognition, in ECCV 2022. [[PDF]](http://ruizehan.github.io/files/22-ECCV-PanoAct.pdf)
+20\. Jiacheng Li, **Ruize Han**$^\dagger$, Haomin Yan, Zekun Qian, Wei Feng, Song Wang. Self-supervised Social Relation Representation for Human Group Detection, in European Conference on Computer Vision (**ECCV**), 2022. (Oral, Acceptance rate 2.7%). [[PDF]](http://ruizehan.github.io/files/22-ECCV-SGD.pdf)
 
-20\. Jiacheng Li, **Ruize Han**$^\dagger$, Haomin Yan, Zekun Qian, Wei Feng, Song Wang. Self-supervised Social Relation Representation for Human Group Detection, in ECCV 2022. (Oral, Acceptance rate 2.7%). [[PDF]](http://ruizehan.github.io/files/22-ECCV-SGD.pdf)
-
-19\. Liqiang Yin<sup>&para;</sup>, **Ruize Han**<sup>&para;</sup>, Wei Feng, Song Wang. Self-Supervised Human Pose based Multi-Camera Video Synchronization, in ACM MM 2022. [[PDF]](http://ruizehan.github.io/files/22-MM-Syn.pdf)
+19\. Liqiang Yin<sup>&para;</sup>, **Ruize Han**<sup>&para;</sup>, Wei Feng, Song Wang. Self-Supervised Human Pose based Multi-Camera Video Synchronization, in ACM International Conference on Multimedia (**ACM MM**), 2022. [[PDF]](http://ruizehan.github.io/files/22-MM-Syn.pdf)
 
 18\. **Ruize Han**, Yiyang Gan, Jiacheng Li, Feifan Wang, Wei Feng, Song Wang. Connecting the Complementary-view Videos: Joint Camera Identification and Subject Association, IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), New Orleans, USA, 2022. [[PDF]](https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Connecting_the_Complementary-View_Videos_Joint_Camera_Identification_and_Subject_Association_CVPR_2022_paper.pdf)
 
@@ -22,7 +22,7 @@ redirect_from:
 
 16\. **Ruize Han**, Wei Feng, Qing Guo, Qinghua Hu. Single Object Tracking Research : A Survey, to appear in Chinese Journal of Computers (in Chinese), 2022. [[PDF]](http://ruizehan.github.io/files/22-CJC-survey.pdf)
 
-15\. **Ruize Han**, Yun Wang, Haomin Yan, Wei Feng, Song Wang. Multi-view Multi-Human Association with Deep Assignment Network, IEEE Transactions on Image Processing (**TIP**), 31:1830-1840, 2022. [[PDF]](http://ruizehan.github.io/files/22-TIP_MvMHA.pdf)
+15\. **Ruize Han**<sup>&para;</sup>, Yun Wang<sup>&para;</sup>, Haomin Yan, Wei Feng, Song Wang. Multi-view Multi-Human Association with Deep Assignment Network, IEEE Transactions on Image Processing (**TIP**), 31:1830-1840, 2022. [[PDF]](http://ruizehan.github.io/files/22-TIP_MvMHA.pdf)
 
 14\. Jiacheng Li, Ruirui Li, **Ruize Han**, Song Wang. Self-Relabeling for Noise-Tolerant Retina Vessel Segmentation through Label Reliability Estimation, BMC Medical Imaging, 22:8, 2022. [[PDF]](https://bmcmedimaging.biomedcentral.com/track/pdf/10.1186/s12880-021-00732-y.pdf)
 
@@ -34,7 +34,7 @@ redirect_from:
 
 10\. Jiewen Zhao<sup>&para;</sup>, **Ruize Han**<sup>&para;</sup>, Yiyang Gan<sup>&para;</sup>, Liang Wan, Wei Feng, Song Wang. Human Identification and Interaction Detection in Cross-View Multi-Person Videos with Wearable Cameras, ACM International Conference on Multimedia (**ACM MM**) 2020. `Co-first Author` [[PDF]](http://ruizehan.github.io/files/20-MM-CVID.pdf)
 
-9\. **Ruize Han**, Jiewen Zhao, Wei Feng, Yiyang Gan, Liang Wan, Song Wang. Complementary-View Co-Interest Person Detection, ACM International Conference on Multimedia (**ACM MM**) 2020. [[PDF]](http://ruizehan.github.io/files/20-MM-CIP.pdf)
+9\. **Ruize Han**<sup>&para;</sup>, Jiewen Zhao<sup>&para;</sup>, Wei Feng, Yiyang Gan, Liang Wan, Song Wang. Complementary-View Co-Interest Person Detection, ACM International Conference on Multimedia (**ACM MM**) 2020. [[PDF]](http://ruizehan.github.io/files/20-MM-CIP.pdf)
 
 8\. **Ruize Han**, Wei Feng, Song Wang. Fast Learning of Spatially Regularized and Content Aware Correlation Filter for Visual Tracking, IEEE Transactions on Image Processing (**TIP**), 29:7128-7140, 2020. [[PDF]](http://ruizehan.github.io/files/20-TIP_WSCF.pdf)
 

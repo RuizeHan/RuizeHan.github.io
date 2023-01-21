@@ -28,7 +28,7 @@ Representative Publications
  
  * **Ruize Han**, Haomin Yan, Jiacheng Li, Wei Feng, Songmiao Wang, Song Wang. Panoramic Human Activity Recognition, in __ECCV__ 2022.
  
- * **Ruize Han**, Yun Wang, Haomin Yan, Wei Feng, Song Wang. Multi-view Multi-Human Association with Deep Assignment Network, __IEEE__ __TIP__ 2022.
+ * **Ruize Han**<sup>&para;</sup>, Yiyang Gan<sup>&para;</sup>, Likai Wang, Nan Li, Wei Feng, Song Wang. Relating View Directions of Complementary-View Mobile Cameras via the Human Shadow, __IJCV__ 2023.
  
  * **Ruize Han**, Qing Guo, Wei Feng. Content-Related Spatial Regularization for Visual Object Tracking, in __ICME__ 2018 (__Best__ __Paper__ __Award__) & __IEEE__ __TIP__ 2019.
 
