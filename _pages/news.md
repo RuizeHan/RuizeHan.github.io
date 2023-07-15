@@ -11,13 +11,14 @@ redirect_from:
 * [2023.07] Another paper about the complementary-view multi-human association and tracking (MHAT) benchmark was accepted by _IJCV_.
 * [2023.06] I have received the doctor's degree! 
 * [2023.01] One paper about the complementary-view video analysis was accepted by _IJCV_.
+* [2022.12] I obtained the Grand Prize in the National Postdoctoral Academic Forum on Information Innovation and Artificial Intelligence Development again.
 * [2022.11] I gave an academic talk on techbeat about our works in CVPR-22, TPAMI-21 and ECCV-22. [[LINK]](https://www.techbeat.net/talk-info?id=730)
 * [2022.07] Two papers (one oral, one poster) about multi-person social relation detection or activity recognition were accepted by _ECCV 2022_.
 * [2022.06] One paper about multi-view video synchronization was accepted by _ACM MM 2022_.
 * [2022.3] Complementary-View Deep Multiple Human Association (DMHA) was accepted by _CVPR 2022_.
 * [2022.1] A survey paper about visual object tracking was accepted by _Chinese Journal of Computers_ (in Chinese).
 * [2021.12] Deep Assignment Network (DAN) for MvMHA was accepted by _IEEE TIP_.
-* [2021.12] I obtained the Grand Prize in the National Postdoctoral Academic Forum on Information Innovation and Artificial Intelligence Development
+* [2021.12] I obtained the Grand Prize in the National Postdoctoral Academic Forum on Information Innovation and Artificial Intelligence Development.
 * [2021.7] Self-supervised MvMHAT was accepted by _ACM MM 2021_ as Oral paper. [[PROJECT]](https://github.com/realgump/MvMHAT)
 * [2021.6] The project of CVMHAT (TPAMI) was added, the code, video and annotations are all public. [[PROJECT]](https://github.com/RuizeHan/CVMHAT)
 * [2021.3] Complementary-View Multiple Human Association and Tracking (CVMHAT) was accepted by _IEEE TPAMI_.
