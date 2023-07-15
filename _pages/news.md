@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 * [2023.07] Another paper about the complementary-view multi-human association and tracking (MHAT) benchmark was accepted by _IJCV_.
+* [2023.06] I have received the doctor's degree! 
 * [2023.01] One paper about the complementary-view video analysis was accepted by _IJCV_.
 * [2022.11] I gave an academic talk on techbeat about our works in CVPR-22, TPAMI-21 and ECCV-22. [[LINK]](https://www.techbeat.net/talk-info?id=730)
 * [2022.07] Two papers (one oral, one poster) about multi-person social relation detection or activity recognition were accepted by _ECCV 2022_.
