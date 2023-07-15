@@ -12,7 +12,7 @@ redirect_from:
 
 ### Education Experience
 
-2019–now  Ph.D., College of Intelligence and Computing, Tianjin University, Tianjin, China.
+2019–2023  Ph.D., College of Intelligence and Computing, Tianjin University, Tianjin, China.
 <br /> Research Interests: Multi-Camera Video Collaborative Analysis, Visual Object Tracking
 
 2016–2019  M.Eng., College of Intelligence and Computing, Tianjin University, Tianjin, China.

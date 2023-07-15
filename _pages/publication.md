@@ -8,6 +8,8 @@ redirect_from:
 ---
 {% include base_path %}
 
+23\. Likai Wang, **Ruize Han**, Wei Feng Combining the Silhouette and Skeleton Data for Gait Recognition, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023.
+
 22\. **Ruize Han**<sup>&para;</sup>, Yiyang Gan<sup>&para;</sup>, Likai Wang, Nan Li, Wei Feng, Song Wang. Relating View Directions of Complementary-View Mobile Cameras via the Human Shadow, International Journal of Computer Vision, (**IJCV**), 2023. [[PDF]](https://link.springer.com/article/10.1007/s11263-022-01744-z)
 
 21\. **Ruize Han**, Haomin Yan, Jiacheng Li, Wei Feng, Songmiao Wang, Song Wang. Panoramic Human Activity Recognition, in European Conference on Computer Vision (**ECCV**), Tel-Aviv, Israel, 2022. [[PDF]](http://ruizehan.github.io/files/22-ECCV-PanoAct.pdf)

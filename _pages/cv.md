@@ -14,7 +14,7 @@ Download the [CV](http://ruizehan.github.io/files/resume_ruize_221010.pdf) PDF (
 Education
 ======
 
-* Ph.D student, Computer Application Technology, Tianjin University (TJU), Tianjin, China, 2019 -- Present
+* Ph.D, Computer Application Technology, Tianjin University (TJU), Tianjin, China, 2019 -- 2023
 * M,Eng., Computer Technology Engineering, Tianjin University (TJU), Tianjin, China, 2016 -- 2019
 * B.S., Mathematics and Applied Mathematics, Hebei University of Technology, Tianjin, China, 2012 -- 2016
 
