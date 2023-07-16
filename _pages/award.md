@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+* 2023 Excellent Doctoral Thesis of Tianjin University
 * 2022 Excellent Doctoral Foundation of Tianjin University
 * 2022 National Postdoctoral Academic Forum on Information Innovation and Artificial Intelligence Development, Grand Prize
 * 2022 National Graduate Scholarship 
