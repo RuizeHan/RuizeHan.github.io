@@ -35,7 +35,7 @@ Representative Publications
  
 Academic Services
 ======
- * Reviewer of conference: ICCV, CVPR, ECCV, AAAI, IJCAI, ICME, ICASSP, etc.
+ * Reviewer of conference: ICCV, CVPR, ECCV, NeurIPS, AAAI, IJCAI, ICME, ICASSP, etc.
  * Reviewer of journal: IEEE TPAMI, IEEE TMM, IEEE TCSVT, Pattern Recognition, etc.
   
 Miscellaneous
