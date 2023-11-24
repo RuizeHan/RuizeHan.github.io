@@ -8,6 +8,8 @@ redirect_from:
 ---
 {% include base_path %}
 
+25\. **Ruize Han**, Wei Feng, Feifan Wang, Zekun Qian, Haomin Yan, Song Wang, Benchmarking the Complementary-View Multi-human Association and Tracking, International Journal of Computer Vision, (**IJCV**), 2023.
+
 24\. Jiacheng Li, **Ruize Han**$^\dagger$, Wei Feng, Haomin Yan, Song Wang. Contactless Interaction Recognition and Interactor Detection in Multi-Person Scenes, Frontiers of Computer Science, 2023.
 
 23\. Likai Wang, **Ruize Han**$^\dagger$, Wei Feng. Combining the Silhouette and Skeleton Data for Gait Recognition, IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023.

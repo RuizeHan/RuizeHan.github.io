@@ -24,12 +24,12 @@ Representative Publications
 
  * **Ruize Han**, Wei Feng, Yujun Zhang, Jiewen Zhao, Song Wang. Multiple Human Association and Tracking from Egocentric and Complementary Top Views, in __AAAI__ 2020 & __IEEE__ __TPAMI__ 2021.
  
+ * **Ruize Han**, Wei Feng, Feifan Wang, Zekun Qian, Haomin Yan, Songmiao Wang, Benchmarking the Complementary-View Multi-human Association and Tracking, __IJCV__ 2023.
+ 
  * **Ruize Han**, Yiyang Gan, Jiacheng Li, Feifan Wang, Wei Feng, Song Wang. Connecting the Complementary-view Videos: Joint Camera Identification and Subject Association, in __CVPR__, 2022.
  
  * **Ruize Han**, Haomin Yan, Jiacheng Li, Wei Feng, Songmiao Wang, Song Wang. Panoramic Human Activity Recognition, in __ECCV__ 2022.
- 
- * **Ruize Han**<sup>&para;</sup>, Yiyang Gan<sup>&para;</sup>, Likai Wang, Nan Li, Wei Feng, Song Wang. Relating View Directions of Complementary-View Mobile Cameras via the Human Shadow, __IJCV__ 2023.
- 
+  
  * **Ruize Han**, Qing Guo, Wei Feng. Content-Related Spatial Regularization for Visual Object Tracking, in __ICME__ 2018 (__Best__ __Paper__ __Award__) & __IEEE__ __TIP__ 2019.
 
  

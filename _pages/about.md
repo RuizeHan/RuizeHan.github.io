@@ -15,7 +15,7 @@ My research interest is visual intelligence, specifically including multi-camera
 
 I am lucky to have opportunities to work with Prof. [Song Wang](https://cse.sc.edu/~songwang/) (University of South Carolina) and Prof. [Liang Wan](http://cic.tju.edu.cn/faculty/lwan/index.html) (Tianjin University). 
 
-I am also happy to cooperate closely with [Jiewen Zhao](https://scholar.google.com/citations?user=kjDZaX8AAAAJ&hl=zh-CN), [Yiyang Gan](https://scholar.google.com/citations?user=TO3J9vgAAAAJ&hl=zh-CN), Jiacheng Li.
+I am also happy to cooperate closely with [Jiewen Zhao](https://scholar.google.com/citations?user=kjDZaX8AAAAJ&hl=zh-CN), [Yiyang Gan](https://scholar.google.com/citations?user=TO3J9vgAAAAJ&hl=zh-CN), Jiacheng Li, Haomin Yan, Liqiang Yin, Zekun Qian, Xiangqun Zhang, Feifan Wang, [Songmiao Wang](https://scholar.google.com.hk/citations?user=2buOSJsAAAAJ&hl=zh-CN), [Likai Wang](https://scholar.google.com.hk/citations?user=eayfW3sAAAAJ&hl=zh-CN).
 
 ## Contact Information
 
