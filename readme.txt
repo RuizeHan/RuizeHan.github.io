@@ -1,3 +1,4 @@
+_config.yml： information
 
 _data/navigation.yml : navigation
 
