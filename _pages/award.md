@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+* 2023 ACM National Excellent Doctoral Dissertation Nomination Award
+* 2023 ACM Tianjin Excellent Doctoral Dissertation Award
 * 2023 Grand Prize of Tianjin College Student Innovation Scholarship
 * 2023 Excellent Doctoral Thesis of Tianjin University
 * 2022 Excellent Doctoral Foundation of Tianjin University
