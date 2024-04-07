@@ -13,7 +13,7 @@ redirect_from:
 * Reviewer of IEEE Transaction on Multimedia
 * Reviewer of IEEE Transactions on Circuits and Systems for Video Technology
 * Reviewer of Transactions on Information Forensics & Security
-* Reviewer of 计算机学报
+* Reviewer of Chinese Journal of Computers
 * Reviewer of Neurocomputing
 * Reviewer of Pattern Recognition Letters
 * Reviewer of Electronics Letters
