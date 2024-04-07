@@ -25,6 +25,9 @@ redirect_from:
 
 ### Research Experience
 
+* 2024 -- Present : Multi-Camera Video Analysis
+  * Open-doamin open-vocabulary object perception.
+
 * Early 2019 -- Present : Multi-Camera Video Analysis
   * Multi-human association and tracking from the complementatry top view and horizontal egocentric view.
   * Human social activity detection and interested person identification in the crowded scene.

@@ -19,8 +19,5 @@ I am also happy to cooperate closely with [Jiewen Zhao](https://scholar.google.c
 
 ## Contact Information
 
-Address: #55 Building, Tianjin University, #135 Yaguan Road, Tianjin 300350, China
-
-Email: han_ruize [@] tju [dot] edu [dot] cn; han_ruize [@] 163 [dot] com
-
+Email: han_ruize [@] tju [dot] edu [dot] cn; rz.han [@] siat [dot] ac [dot] cn, han_ruize [@] 163 [dot] com
 
