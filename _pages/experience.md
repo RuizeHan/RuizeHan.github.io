@@ -25,7 +25,7 @@ redirect_from:
 
 ### Research Experience
 
-* 2024 -- Present : Multi-Camera Video Analysis
+* 2024 -- Present : Open-World Visual Analysis
   * Open-doamin open-vocabulary object perception.
 
 * Early 2019 -- Present : Multi-Camera Video Analysis
