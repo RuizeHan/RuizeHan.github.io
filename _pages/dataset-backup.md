@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Multi-Camera Multi-Human Multi-Task （M^3) Video Analysis"
+title: "Mobile Camera Network based Datasets"
 permalink: /dataset/
 author_profile: true
 redirect_from:
@@ -9,35 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-# Hightlight 1: Air-ground-view multi-human analysis
-
-## Main Dataset: Multi-view multi-human detection, association and tracking
- (Published in IJCV 2024)
- 
- **Project Link**: https://github.com/RuizeHan/CVMHATB
-
-## Main Method Contribution: Spatial-distribution feature for cross-view association
- (Published in IEEE TPAMI 2022)
-
-**Project Link**: https://github.com/RuizeHan/CVMHAT
-
-
-##Other Extensions:
-
-### 1. Deep spatial-distribution feature for human cross-view connection (CVPR 2022)：
-
-**Project Link**: https://github.com/RuizeHan/DMHA
-
-### 2. Human shadow based complementary-view camera pose estimation (IJCV 2023)：
-
-**Project Link**: https://github.com/RuizeHan/CVCR
-
-### 3. Complementary-view co-interest person detection (ACM MM 2020):
-
-**Project**: https://github.com/RuizeHan/CIP
+## Category I: Complementary-view multi-human video analysis datasets
 
 <img src="http://ruizehan.github.io/images/cvmhat.png" width="625" height="250" alt="example"/><br/>
 
+### 1. Human association and tracking task (Real-world)：
+
+**Link**: [Baidu Netdisk](https://pan.baidu.com/s/1dS9sGqxOcaDsxddl6r2OKA) **Password**: CVHT
+
+**Project** (TPAMI 2021): https://github.com/RuizeHan/CVMHAT
+
+### 2. Human association task (Synthetic)：
+
+**Link**：[Baidu Netdisk](https://pan.baidu.com/s/1u_ed8w4cTe_w9bz1_Sk2ZA)  **Password**：DMHA
+
+**Project** (CVPR 2022): https://github.com/RuizeHan/DMHA
+
+### 3. Complementary-view co-interest person detection task:
+
+
+**Link**: [Baidu Netdisk](https://pan.baidu.com/s/1BAM_MD1Lya5zf-O4OzJFnw) **Password**: CVIP
+
+**Project** (ACM MM 2020): https://github.com/RuizeHan/CIP
 
 ## Category II: Dynamic multi-view multi-human video analysis datasets
 
