@@ -38,7 +38,7 @@ Project page: https://github.com/RuizeHan/CIP
 
 ## Direction 2: Multi-view multi-human video analysis
 
-### ***<font color=Blue>Hightlight : </font>*** Self-supervided spatial-temporal human association (ACM MM 2021, Oral, Submitted to IEEE TPAMI)
+### ***<font color=Blue>Hightlight : </font>*** Self-supervided spatial-temporal human association (ACM MM 2021, Oral, Submitted to TPAMI)
 
 Project page: https://github.com/realgump/MvMHAT  
 
