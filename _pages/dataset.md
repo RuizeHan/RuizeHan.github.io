@@ -39,7 +39,7 @@ redirect_from:
 <img src="http://ruizehan.github.io/images/cvmhat.png" width="625" height="250" alt="example"/><br/>
 
 
-## Category II: Dynamic multi-view multi-human video analysis datasets
+## Hightlight 2: Dynamic multi-view multi-human video analysis datasets
 
 <img src="http://ruizehan.github.io/images/mvmhat.png" width="625" height="343" alt="example"/><br/>
 
