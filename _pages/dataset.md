@@ -58,16 +58,16 @@ Project page: https://github.com/zekunqian/BEVSee
 
 ## Direction 3: Multi-human activity analysis
 
-###  ***<font color=Blue>Hightlight :</font>*** Panoramic human activity recognition 
+###  ***<font color=Blue>Hightlight :</font>*** Panoramic human activity recognition (ECCV 2022)
 
-Project page: https://github.com/RuizeHan/PAR (Published in ECCV 2022)
+Project page: https://github.com/RuizeHan/PAR
 
 ### Other basics/extensions:
 
-### 1. Human group detection (ECCV 2020, Oral):
+### 1. Human group detection (ECCV 2022, Oral)
 Project page: https://github.com/Jiaoma/SHGD
 
-### 2. Multi-view human interaction detection (ACM MM 2020):
+### 2. Multi-view human interaction detection (ACM MM 2020)
 Project page: https://github.com/RuizeHan/CVID
 
 <img src="http://ruizehan.github.io/images/example_par.png" width="900" height="343" alt="example"/><br/>
