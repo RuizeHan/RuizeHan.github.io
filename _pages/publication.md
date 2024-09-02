@@ -8,7 +8,9 @@ redirect_from:
 ---
 {% include base_path %}
 
-25\. **Ruize Han**, Wei Feng, Feifan Wang, Zekun Qian, Haomin Yan, Song Wang, Benchmarking the Complementary-View Multi-human Association and Tracking, International Journal of Computer Vision, (**IJCV**), 2023.
+26\. Zekun Qian, **Ruize Han**$^\dagger$, Wei Feng, Song Wang. From a Bird's Eye View to See: Joint Camera and Subject Registration without the Camera Calibration, IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024. 
+
+25\. **Ruize Han**, Wei Feng, Feifan Wang, Zekun Qian, Haomin Yan, Song Wang, Benchmarking the Complementary-View Multi-human Association and Tracking, International Journal of Computer Vision, (**IJCV**), 2024.
 
 24\. Jiacheng Li, **Ruize Han**$^\dagger$, Wei Feng, Haomin Yan, Song Wang. Contactless Interaction Recognition and Interactor Detection in Multi-Person Scenes, Frontiers of Computer Science, 2023.
 
