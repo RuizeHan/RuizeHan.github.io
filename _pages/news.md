@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+* [2024.09] One paper about the multi-view multi-human tracking was accepted by _IEEE TPAMI_.
+* [2024.07] One paper about the object detection was accepted by _ACM MM_ 2024.
 * [2024.03] One paper about the multi-view multi-human detection was accepted by _CVPR_ 2024.
 * [2023.12] I obtained the ACM Tianjin Excellent Doctoral Dissertation Award, and the ACM National Excellent Doctoral Dissertation Nomination Award.
 * [2023.11] Two papers about the multi-human activity understanding were accepted by _FCS_ and _CVMJ_ (CCF high quality scientific journals in the field of computing).

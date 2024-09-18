@@ -8,6 +8,10 @@ redirect_from:
 ---
 {% include base_path %}
 
+28\. Liqing Gao, Wei Feng, Peng Shi, **Ruize Han**, Di Lin, Liang Wan. Sign language translation with hierarchical memorized context in question answering scenarios. Neural Computing and Applications, 2024.
+
+27\. Zixing Lei, Zhenyang Ni, **Ruize Han**, Shuo Tang, Chen Feng, Siheng Chen, Yanfeng Wang. Robust Collaborative Perception without External Localization and Clock Devices, IEEE International Conference on Robotics and Automation (ICRA), 2024.
+
 26\. Zekun Qian, **Ruize Han**$^\dagger$, Wei Feng, Song Wang. From a Bird's Eye View to See: Joint Camera and Subject Registration without the Camera Calibration, IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024. 
 
 25\. **Ruize Han**, Wei Feng, Feifan Wang, Zekun Qian, Haomin Yan, Song Wang, Benchmarking the Complementary-View Multi-human Association and Tracking, International Journal of Computer Vision, (**IJCV**), 2024.
