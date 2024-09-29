@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+* [2024.09] One paper about the open-vocabulary tracking was accepted by _NeurIPS Dataset and Benchmark Track_.
 * [2024.09] One paper about the multi-view multi-human tracking was accepted by _IEEE TPAMI_.
 * [2024.07] One paper about the object detection was accepted by _ACM MM_ 2024.
 * [2024.03] One paper about the multi-view multi-human detection was accepted by _CVPR_ 2024.
