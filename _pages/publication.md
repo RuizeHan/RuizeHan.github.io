@@ -8,6 +8,10 @@ redirect_from:
 ---
 {% include base_path %}
 
+30\. Haiji Liang, **Ruize Han**$^\dagger$. OVT-B: A New Large-Scale Benchmark for Open-Vocabulary Multi-Object Tracking, in Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024.
+
+29\. Wei Feng, Feifan Wang, **Ruize Han**$^\dagger$, Yiyang Gan, Zekun Qian, Junhui Hou, Song Wang, Unveiling the Power of Self-supervision for Multi-view Multi-human Association and Tracking, IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024.
+
 28\. Liqing Gao, Wei Feng, Peng Shi, **Ruize Han**, Di Lin, Liang Wan. Sign language translation with hierarchical memorized context in question answering scenarios. Neural Computing and Applications, 2024.
 
 27\. Zixing Lei, Zhenyang Ni, **Ruize Han**, Shuo Tang, Chen Feng, Siheng Chen, Yanfeng Wang. Robust Collaborative Perception without External Localization and Clock Devices, IEEE International Conference on Robotics and Automation (ICRA), 2024.
