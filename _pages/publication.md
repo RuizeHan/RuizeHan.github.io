@@ -10,7 +10,7 @@ redirect_from:
 
 32\. Likai Wang, Xiangqun Zhang, **Ruize Han**$^\dagger$, Yanjie Wei, Song Wang, Wei Feng, A New Benchmark and Algorithm for Clothes-Changing Video Person Re-Identification, IEEE Transactions on Information Forensics and Security (**TIFS**), 2025. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10873002)
 
-31\. Liqing Gao, Liang Wan, Lianyu Hu, Ruize Han, Zekang Liu, Peng Shi, Fanhua Shang, Wei Feng, A large-scale combinatorial benchmark for sign language recognition, Pattern Recognition, 2025. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S003132032400997X)
+31\. Liqing Gao, Liang Wan, Lianyu Hu, **Ruize Han**, Zekang Liu, Peng Shi, Fanhua Shang, Wei Feng, A large-scale combinatorial benchmark for sign language recognition, Pattern Recognition, 2025. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S003132032400997X)
 
 30\. Haiji Liang, **Ruize Han**$^\dagger$. OVT-B: A New Large-Scale Benchmark for Open-Vocabulary Multi-Object Tracking, in Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024. [[PDF]](https://proceedings.neurips.cc/paper_files/paper/2024/file/1adeeac24ce6168e20bcee85645720e9-Paper-Datasets_and_Benchmarks_Track.pdf)
 
