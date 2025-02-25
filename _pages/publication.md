@@ -8,17 +8,21 @@ redirect_from:
 ---
 {% include base_path %}
 
-30\. Haiji Liang, **Ruize Han**$^\dagger$. OVT-B: A New Large-Scale Benchmark for Open-Vocabulary Multi-Object Tracking, in Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024.
+32\. Likai Wang, Xiangqun Zhang, **Ruize Han**$^\dagger$, Yanjie Wei, Song Wang, Wei Feng, A New Benchmark and Algorithm for Clothes-Changing Video Person Re-Identification, IEEE Transactions on Information Forensics and Security (**TIFS**), vol. 20, pp. 1993-2005, 2025. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10873002)
 
-29\. Wei Feng, Feifan Wang, **Ruize Han**$^\dagger$, Yiyang Gan, Zekun Qian, Junhui Hou, Song Wang, Unveiling the Power of Self-supervision for Multi-view Multi-human Association and Tracking, IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024.
+31\. Liqing Gao, Liang Wan, Lianyu Hu, Ruize Han, Zekang Liu, Peng Shi, Fanhua Shang, Wei Feng, A large-scale combinatorial benchmark for sign language recognition, Pattern Recognition, Volume 161, 111246, 2025. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S003132032400997X)
+
+30\. Haiji Liang, **Ruize Han**$^\dagger$. OVT-B: A New Large-Scale Benchmark for Open-Vocabulary Multi-Object Tracking, in Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024. [[PDF]](https://proceedings.neurips.cc/paper_files/paper/2024/file/1adeeac24ce6168e20bcee85645720e9-Paper-Datasets_and_Benchmarks_Track.pdf)
+
+29\. Wei Feng, Feifan Wang, **Ruize Han**$^\dagger$, Yiyang Gan, Zekun Qian, Junhui Hou, Song Wang, Unveiling the Power of Self-supervision for Multi-view Multi-human Association and Tracking, IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10684138)
 
 28\. Liqing Gao, Wei Feng, Peng Shi, **Ruize Han**, Di Lin, Liang Wan. Sign language translation with hierarchical memorized context in question answering scenarios. Neural Computing and Applications, 2024.
 
 27\. Zixing Lei, Zhenyang Ni, **Ruize Han**, Shuo Tang, Chen Feng, Siheng Chen, Yanfeng Wang. Robust Collaborative Perception without External Localization and Clock Devices, IEEE International Conference on Robotics and Automation (ICRA), 2024.
 
-26\. Zekun Qian, **Ruize Han**$^\dagger$, Wei Feng, Song Wang. From a Bird's Eye View to See: Joint Camera and Subject Registration without the Camera Calibration, IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024. 
+26\. Zekun Qian, **Ruize Han**$^\dagger$, Wei Feng, Song Wang. From a Bird's Eye View to See: Joint Camera and Subject Registration without the Camera Calibration, IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024. [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Qian_From_a_Birds_Eye_View_to_See_Joint_Camera_and_CVPR_2024_paper.pdf)
 
-25\. **Ruize Han**, Wei Feng, Feifan Wang, Zekun Qian, Haomin Yan, Song Wang, Benchmarking the Complementary-View Multi-human Association and Tracking, International Journal of Computer Vision, (**IJCV**), 2024.
+25\. **Ruize Han**, Wei Feng, Feifan Wang, Zekun Qian, Haomin Yan, Song Wang, Benchmarking the Complementary-View Multi-human Association and Tracking, International Journal of Computer Vision, (**IJCV**), 2024. [[PDF]](https://link.springer.com/article/10.1007/s11263-023-01857-z)
 
 24\. Jiacheng Li, **Ruize Han**$^\dagger$, Wei Feng, Haomin Yan, Song Wang. Contactless Interaction Recognition and Interactor Detection in Multi-Person Scenes, Frontiers of Computer Science, 2023.
 
