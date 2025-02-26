@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 * [2025.02] One paper about the clothes-changing video person Re-ID was accepted by _IEEE TIFS_.
-* [2025.01] I I was selected for the CAAI PhD Thesis Incentive Program. [[]LINK](https://www.caai.cn/index.php?s=/home/article/detail/id/4429.html)
+* [2025.01] I I was selected for the CAAI PhD Thesis Incentive Program. [[LINK]](https://www.caai.cn/index.php?s=/home/article/detail/id/4429.html)
 * [2024.09] One paper about the open-vocabulary tracking was accepted by _NeurIPS Dataset and Benchmark Track_.
 * [2024.09] One paper about the multi-view multi-human tracking was accepted by _IEEE TPAMI_.
 * [2024.07] One paper about the object detection was accepted by _ACM MM_ 2024.
 * [2024.03] One paper about the multi-view multi-human detection was accepted by _CVPR_ 2024.
-* [2023.12] I obtained the ACM Tianjin Excellent Doctoral Dissertation Award, and the ACM National Excellent Doctoral Dissertation Nomination Award.
+* [2023.12] I obtained the ACM Tianjin Excellent Doctoral Dissertation Award, and the ACM National Excellent Doctoral Dissertation Nomination Award. [[LINK]](https://www.acmturc.com/2024/#/doctoralThesisAward)
 * [2023.11] Two papers about the multi-human activity understanding were accepted by _FCS_ and _CVMJ_ (CCF high quality scientific journals in the field of computing).
 * [2023.07] One paper about the complementary-view multi-human association and tracking (MHAT) benchmark was accepted by _IJCV_.
 * [2023.06] I have received the doctor's degree! 
