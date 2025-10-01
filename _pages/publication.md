@@ -8,6 +8,12 @@ redirect_from:
 ---
 {% include base_path %}
 
+35\. Zekun Qian, **Ruize Han**$^\dagger$, Zhixiang Wang, Junhui Hou, Wei Feng. COVTrack: Continuous Open-Vocabulary Multi-Object Tracking via Adaptive Multi-Cue Fusion, in IEEE/CVF International Conference on Computer Vision {**ICCV**}, 2025.
+ 
+34\. Zekun Qian<sup>&para;</sup>, **Ruize Han**<sup>&para;</sup>, Junhui Hou, Linqi Song, Wei Feng. VOVTrack: Exploring the Potentiality in Raw Videos for Open-Vocabulary Multi-Object Tracking, in IEEE/CVF International Conference on Computer Vision {**ICCV**}, 2025.
+
+33\. Xiangqun Zhang, **Ruize Han**$^\dagger$, Likai Wang, Linqi Song, Junhui Hou, Wei Feng, Synthetic-To-Real Video Person Re-ID, IEEE Transactions on Information Forensics and Security (**TIFS**), 2025.
+
 32\. Likai Wang, Xiangqun Zhang, **Ruize Han**$^\dagger$, Yanjie Wei, Song Wang, Wei Feng, A New Benchmark and Algorithm for Clothes-Changing Video Person Re-Identification, IEEE Transactions on Information Forensics and Security (**TIFS**), 2025. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10873002)
 
 31\. Liqing Gao, Liang Wan, Lianyu Hu, **Ruize Han**, Zekang Liu, Peng Shi, Fanhua Shang, Wei Feng, A large-scale combinatorial benchmark for sign language recognition, Pattern Recognition, 2025. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S003132032400997X)
