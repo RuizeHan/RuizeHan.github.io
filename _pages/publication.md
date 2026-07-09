@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
+37\. Zekun Qian, Wei Feng$^\dagger$, Feifan Wang, **Ruize Han**$^\dagger$. BEVTrack: Multi-View Multi-Human Registration andird's Eye View, in IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026.
 
 36\. Zekun Qian, **Ruize Han**$^\dagger$, Zhixiang Wang, Junhui Hou, Wei Feng. COVTrack: Continuous Open-Vocabulary Multi-Object Tracking via Adaptive Multi-Cue Fusion, in IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025.
  
