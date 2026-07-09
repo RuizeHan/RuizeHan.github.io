@@ -8,6 +8,14 @@ redirect_from:
 ---
 {% include base_path %}
 
+40\. Zekun Qian, **Ruize Han**$^\dagger$, Zhixiang Wang, Liang Wan, Wei Feng. GOVTrack: Towards Generative Open-Vocabulary Multi-Object Tracking, in IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) Findings, 2026.
+
+39\. Yupeng Zhang, **Ruize Han**$^\dagger$, Fangnan Zhou, Song Wang, Wei Feng, Liang Wan. ODOV: Benchmark the Open-Domain Open-Vocabulary Object Detection, in IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) Findings, 2026.
+
+38\. Yupeng Zhang, **Ruize Han**, Zixuan Chen, Wei Feng, Liang Wan. NoOVD: Novel Category Discovery and Embedding for Open-Vocabulary Object Detection, in IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
+
+37\. Zekun Qian, Wei Feng, Feifan Wang$^\dagger$, **Ruize Han**$^\dagger$. BEVTrack: Multi-View Multi-Human Registration andird's Eye View, IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026.
+
 36\. Zekun Qian, **Ruize Han**$^\dagger$, Zhixiang Wang, Junhui Hou, Wei Feng. COVTrack: Continuous Open-Vocabulary Multi-Object Tracking via Adaptive Multi-Cue Fusion, in IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025.
  
 35\. Zekun Qian<sup>&para;</sup>, **Ruize Han**<sup>&para;</sup>, Junhui Hou, Linqi Song, Wei Feng. VOVTrack: Exploring the Potentiality in Raw Videos for Open-Vocabulary Multi-Object Tracking, in IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025.
