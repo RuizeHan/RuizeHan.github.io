@@ -1,5 +1,1 @@
-{% if site.url and jekyll.environment == "production" %}
-  {% assign base_path = site.url | append: site.baseurl %}
-{% else %}
-  {% assign base_path = site.baseurl %}
-{% endif %}
+{% assign base_path = site.baseurl %}
