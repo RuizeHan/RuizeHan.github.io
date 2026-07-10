@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+* 2026 Recipient of the Guangdong Young Talent Support Project 
+* 2025 National Second Prize, Chinese Collegiate Computing Competition (4C), Advisor
+* 2025 Tianjin Outstanding Doctoral Dissertation
+* 2024 CAAI Doctoral Dissertation Incentive Program
 * 2023 ACM National Excellent Doctoral Dissertation Nomination Award
 * 2023 ACM Tianjin Excellent Doctoral Dissertation Award
 * 2023 Grand Prize of Tianjin College Student Innovation Scholarship
