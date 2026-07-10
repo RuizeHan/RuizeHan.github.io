@@ -12,7 +12,7 @@ redirect_from:
 
 43\. Yupeng Zhang, **Ruize Han**$^\dagger$, Fangnan Zhou, Song Wang, Wei Feng, Liang Wan. ODOV: Benchmark the Open-Domain Open-Vocabulary Object Detection, in IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) Findings, 2026.
 
-42. Yupeng Zhang, **Ruize Han**, Zixuan Chen, Wei Feng, Liang Wan. NoOVD: Novel Category Discovery and Embedding for Open-Vocabulary Object Detection, in IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
+42\. Yupeng Zhang, **Ruize Han**, Zixuan Chen, Wei Feng, Liang Wan. NoOVD: Novel Category Discovery and Embedding for Open-Vocabulary Object Detection, in IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
 
 41\. Zekun Qian, Wei Feng$^\dagger$, Feifan Wang, **Ruize Han**$^\dagger$. BEVTrack: Multi-View Multi-Human Registration andird's Eye View, IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026.
 
