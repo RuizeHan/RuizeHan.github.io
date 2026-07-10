@@ -16,17 +16,17 @@ redirect_from:
 
 41\. Zekun Qian, Wei Feng$^\dagger$, Feifan Wang, **Ruize Han**$^\dagger$. BEVTrack: Multi-View Multi-Human Registration andird's Eye View, IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026.
 
-40\. Likai Wang, **Ruize Han**, Bingliang Jiao, Wei Feng. Category-agnostic object re-identification, Pattern Recognition, 2026.
+40\. Likai Wang, **Ruize Han**$^\dagger$, Bingliang Jiao, Wei Feng. Category-agnostic object re-identification, Pattern Recognition, 2026.
 
-39\. Zekun Qian, **Ruize Han**, Zhixiang Wang, Junhui Hou, Wei Feng. DOVTrack: Data-Efficient Open-Vocabulary Tracking, in The Thirty-ninth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025.
+39\. Zekun Qian, **Ruize Han**$^\dagger$, Zhixiang Wang, Junhui Hou, Wei Feng. DOVTrack: Data-Efficient Open-Vocabulary Tracking, in The Thirty-ninth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025.
 
 38\. Zekun Qian, **Ruize Han**$^\dagger$, Zhixiang Wang, Junhui Hou, Wei Feng. COVTrack: Continuous Open-Vocabulary Multi-Object Tracking via Adaptive Multi-Cue Fusion, in IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025.
  
 37\. Zekun Qian<sup>&para;</sup>, **Ruize Han**<sup>&para;</sup>, Junhui Hou, Linqi Song, Wei Feng. VOVTrack: Exploring the Potentiality in Raw Videos for Open-Vocabulary Multi-Object Tracking, in IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025.
 
-36\. Haomin Yan, **Ruize Han**, Wei Feng, Jiewen Zhao, Song Wang. Weakly supervised instance action recognition, Computational Visual Media (**CVM**), 2025.
+36\. Haomin Yan, **Ruize Han**$^\dagger$, Wei Feng, Jiewen Zhao, Song Wang. Weakly supervised instance action recognition, Computational Visual Media (**CVM**), 2025.
 
-35\. Songmiao Wang, **Ruize Han**, Wei Feng. Concept-Guided Open-Vocabulary Temporal Action Detection, Journal of Computer Science and Technology (**JCST**), 2025.
+35\. Songmiao Wang, **Ruize Han**$^\dagger$, Wei Feng$^\dagger$. Concept-Guided Open-Vocabulary Temporal Action Detection, Journal of Computer Science and Technology (**JCST**), 2025.
 
 34\. Likai Wang, Wei Feng, **Ruize Han**$^\dagger$, Xiangqun Zhang, Yanjie Wei, Song Wang, From indoor to outdoor: Unsupervised domain adaptive gait recognition, Pattern Recognition, 2025.
 
