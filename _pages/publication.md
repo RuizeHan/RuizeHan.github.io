@@ -14,9 +14,9 @@ redirect_from:
 
 42\. Yupeng Zhang, **Ruize Han**, Zixuan Chen, Wei Feng, Liang Wan. NoOVD: Novel Category Discovery and Embedding for Open-Vocabulary Object Detection, in IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
 
-41\. Zekun Qian, Wei Feng$^\dagger$, Feifan Wang, **Ruize Han**$^\dagger$. BEVTrack: Multi-View Multi-Human Registration andird's Eye View, IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026.
+41\. Zekun Qian, Wei Feng$^\dagger$, Feifan Wang, **Ruize Han**$^\dagger$. BEVTrack: Multi-View Multi-Human Registration and Tracking in the Bird's Eye View, IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026.
 
-40\. Likai Wang, **Ruize Han**$^\dagger$, Bingliang Jiao, Wei Feng. Category-agnostic object re-identification, Pattern Recognition, 2026.
+40\. Likai Wang, **Ruize Han**$^\dagger$, Bingliang Jiao, Wei Feng. Category-agnostic Object Re-identification, Pattern Recognition, 2026.
 
 39\. Zekun Qian, **Ruize Han**$^\dagger$, Zhixiang Wang, Junhui Hou, Wei Feng. DOVTrack: Data-Efficient Open-Vocabulary Tracking, in The Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025.
 
