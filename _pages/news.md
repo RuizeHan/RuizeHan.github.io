@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+* [2026.06] Four papers have been accepted by _ECCV_ 2026.
+* [2026.02] Three papers (including two findings) have been accepted by _CVPR_ 2026.
 * [2025.12] BEVTrack (extension of BEVSee) has been accepted by _IEEE TPAMI_.
 * [2025.09] One paper about the open-vocabulary tracking (DOVTrack) has been accepted by _NeurIPS_ 2025.
 * [2025.07] One paper about the gait recognition has been accepted by _Pattern Recognition_.

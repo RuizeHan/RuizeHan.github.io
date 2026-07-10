@@ -15,8 +15,8 @@ main:
   - title: "Awards"
     url: /award/
     
-  - title: "CV"
-    url: /cv/
+ # - title: "CV"
+ #   url: /cv/
     
   - title: "Resource"
     url: /dataset/
