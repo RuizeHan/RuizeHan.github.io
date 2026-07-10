@@ -18,13 +18,13 @@ redirect_from:
 
 40\. Likai Wang, **Ruize Han**$^\dagger$, Bingliang Jiao, Wei Feng. Category-agnostic object re-identification, Pattern Recognition, 2026.
 
-39\. Zekun Qian, **Ruize Han**$^\dagger$, Zhixiang Wang, Junhui Hou, Wei Feng. DOVTrack: Data-Efficient Open-Vocabulary Tracking, in The Thirty-ninth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025.
+39\. Zekun Qian, **Ruize Han**$^\dagger$, Zhixiang Wang, Junhui Hou, Wei Feng. DOVTrack: Data-Efficient Open-Vocabulary Tracking, in The Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025.
 
 38\. Zekun Qian, **Ruize Han**$^\dagger$, Zhixiang Wang, Junhui Hou, Wei Feng. COVTrack: Continuous Open-Vocabulary Multi-Object Tracking via Adaptive Multi-Cue Fusion, in IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025.
  
 37\. Zekun Qian<sup>&para;</sup>, **Ruize Han**<sup>&para;</sup>, Junhui Hou, Linqi Song, Wei Feng. VOVTrack: Exploring the Potentiality in Raw Videos for Open-Vocabulary Multi-Object Tracking, in IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025.
 
-36\. Haomin Yan, **Ruize Han**$^\dagger$, Wei Feng, Jiewen Zhao, Song Wang. Weakly supervised instance action recognition, Computational Visual Media (**CVM**), 2025.
+36\. Haomin Yan, **Ruize Han**$^\dagger$, Wei Feng, Jiewen Zhao, Song Wang. Weakly supervised instance action recognition, Computational Visual Media (**CVMJ**), 2025.
 
 35\. Songmiao Wang, **Ruize Han**$^\dagger$, Wei Feng$^\dagger$. Concept-Guided Open-Vocabulary Temporal Action Detection, Journal of Computer Science and Technology (**JCST**), 2025.
 
