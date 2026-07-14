@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selective Publications"
 permalink: /publication/
 author_profile: true
 redirect_from:
@@ -8,11 +8,13 @@ redirect_from:
 ---
 {% include base_path %}
 
-44\. Zekun Qian, **Ruize Han**$^\dagger$, Zhixiang Wang, Liang Wan, Wei Feng. GOVTrack: Towards Generative Open-Vocabulary Multi-Object Tracking, in IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) Findings, 2026.
+45\. Zekun Qian, **Ruize Han**$^\dagger$, Zhixiang Wang, Liang Wan, Wei Feng. GOVTrack: Towards Generative Open-Vocabulary Multi-Object Tracking, in IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) Findings, 2026.
 
-43\. Yupeng Zhang, **Ruize Han**$^\dagger$, Fangnan Zhou, Song Wang, Wei Feng, Liang Wan. ODOV: Benchmark the Open-Domain Open-Vocabulary Object Detection, in IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) Findings, 2026.
+44\. Yupeng Zhang, **Ruize Han**$^\dagger$, Fangnan Zhou, Song Wang, Wei Feng, Liang Wan. ODOV: Benchmark the Open-Domain Open-Vocabulary Object Detection, in IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) Findings, 2026.
 
-42\. Yupeng Zhang, **Ruize Han**, Zixuan Chen, Wei Feng, Liang Wan. NoOVD: Novel Category Discovery and Embedding for Open-Vocabulary Object Detection, in IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
+43\. Yupeng Zhang, **Ruize Han**, Zixuan Chen, Wei Feng, Liang Wan. NoOVD: Novel Category Discovery and Embedding for Open-Vocabulary Object Detection, in IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
+
+42\. Yifeng Wu, Huimin Huang, Shangjie Zhou, Yawen Huang, Hao Zheng, Yun Chen, Xian Wu, **Ruize Han**$^\dagger$, Guanhua Chen$^\dagger$. InfoScan: Information-Efficient Visual Scanning via Resource-Adaptive Walks, in International Conference on Learning Representations (**ICLR**), 2026.
 
 41\. Zekun Qian, Wei Feng$^\dagger$, Feifan Wang, **Ruize Han**$^\dagger$. BEVTrack: Multi-View Multi-Human Registration and Tracking in the Bird's Eye View, IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026.
 
