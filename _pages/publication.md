@@ -8,57 +8,65 @@ redirect_from:
 ---
 {% include base_path %}
 
-45\. Zekun Qian, **Ruize Han**$^\dagger$, Zhixiang Wang, Liang Wan, Wei Feng. GOVTrack: Towards Generative Open-Vocabulary Multi-Object Tracking, in IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) Findings, 2026.
+49\. Zekun Qian, **Ruize Han**, Junhui Hou, Wei Feng. SOVTrack: Open-Vocabulary Multi-object Tracking with Self-supervised Pseudo Labeling and Feature Distillation, in European Conference on Computer Vision (**ECCV**), Malmö, Sweden, 2026. [[DOI]](https://doi.org/10.1007/978-3-032-37098-3_21)
 
-44\. Yupeng Zhang, **Ruize Han**$^\dagger$, Fangnan Zhou, Song Wang, Wei Feng, Liang Wan. ODOV: Benchmark the Open-Domain Open-Vocabulary Object Detection, in IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) Findings, 2026.
+48\. Yupeng Zhang, Fangzhuo Gao, **Ruize Han**, Wei Feng, Liang Wan. RT-SDGOD: Real-Time Single-Domain Generalized Object Detection, in European Conference on Computer Vision (**ECCV**), Malmö, Sweden, 2026. [[DOI]](https://doi.org/10.1007/978-3-032-37324-3_1)
 
-43\. Yupeng Zhang, **Ruize Han**, Zixuan Chen, Wei Feng, Liang Wan. NoOVD: Novel Category Discovery and Embedding for Open-Vocabulary Object Detection, in IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
+47\. Jinyuan Liu, Yang Wang, Zeyu Zhao, Weixin Li, Song Wang, **Ruize Han**. Online Reasoning Video Object Segmentation, in European Conference on Computer Vision (**ECCV**), Malmö, Sweden, 2026. [[DOI]](https://doi.org/10.1007/978-3-032-37550-6_31)
 
-42\. Yifeng Wu, Huimin Huang, Shangjie Zhou, Yawen Huang, Hao Zheng, Yun Chen, Xian Wu, **Ruize Han**$^\dagger$, Guanhua Chen$^\dagger$. InfoScan: Information-Efficient Visual Scanning via Resource-Adaptive Walks, in International Conference on Learning Representations (**ICLR**), 2026.
+46\. Zhiwei Chen, Yiran Nie, **Ruize Han**, Qinqin Zhou. Cross-Token Guidance Transformer for Weakly Supervised Object Localization, in European Conference on Computer Vision (**ECCV**), Malmö, Sweden, 2026. [[DOI]](https://doi.org/10.1007/978-3-032-37020-4_24)
 
-41\. Zekun Qian, Wei Feng$^\dagger$, Feifan Wang, **Ruize Han**$^\dagger$. BEVTrack: Multi-View Multi-Human Registration and Tracking in the Bird's Eye View, IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026.
+45\. Zekun Qian, **Ruize Han**$^\dagger$, Zhixiang Wang, Liang Wan, Wei Feng. GOVTrack: Towards Generative Open-Vocabulary Multi-Object Tracking, in IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) Findings, Denver, USA, 2026. [[Paper]](https://openreview.net/forum?id=knl16MN8BM)
 
-40\. Likai Wang, **Ruize Han**$^\dagger$, Bingliang Jiao, Wei Feng. Category-agnostic Object Re-identification, Pattern Recognition, 2026.
+44\. Yupeng Zhang, **Ruize Han**$^\dagger$, Fangnan Zhou, Wei Feng, Liang Wan. ODOV: Benchmark the Open-Domain Open-Vocabulary Object Detection, in IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) Findings, Denver, USA, 2026. [[Paper]](https://openaccess.thecvf.com/content/CVPR2026F/html/Zhang_ODOV_Benchmark_the_Open-Domain_Open-Vocabulary_Object_Detection_CVPRF_2026_paper.html)
 
-39\. Zekun Qian, **Ruize Han**$^\dagger$, Zhixiang Wang, Junhui Hou, Wei Feng. DOVTrack: Data-Efficient Open-Vocabulary Tracking, in The Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025.
+43\. Yupeng Zhang, **Ruize Han**, Zhiwei Chen, Wei Feng, Liang Wan. NoOVD: Novel Category Discovery and Embedding for Open-Vocabulary Object Detection, in IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Denver, USA, 2026. [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_NoOVD_Novel_Category_Discovery_and_Embedding_for_Open-Vocabulary_Object_Detection_CVPR_2026_paper.html)
 
-38\. Zekun Qian, **Ruize Han**$^\dagger$, Zhixiang Wang, Junhui Hou, Wei Feng. COVTrack: Continuous Open-Vocabulary Multi-Object Tracking via Adaptive Multi-Cue Fusion, in IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025.
- 
-37\. Zekun Qian<sup>&para;</sup>, **Ruize Han**<sup>&para;</sup>, Junhui Hou, Linqi Song, Wei Feng. VOVTrack: Exploring the Potentiality in Raw Videos for Open-Vocabulary Multi-Object Tracking, in IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025.
+42\. Yifeng Wu, Huimin Huang, Shangjie Zhou, Yawen Huang, Hao Zheng, Yun Chen, Xian Wu, **Ruize Han**$^\dagger$, Guanhua Chen$^\dagger$. InfoScan: Information-Efficient Visual Scanning via Resource-Adaptive Walks, in International Conference on Learning Representations (**ICLR**), Rio de Janeiro, Brazil, 2026. [[Paper]](https://proceedings.iclr.cc/paper_files/paper/2026/hash/6030db5195150ac86d942186f4abdad8-Abstract-Conference.html)
 
-36\. Haomin Yan, **Ruize Han**$^\dagger$, Wei Feng, Jiewen Zhao, Song Wang. Weakly supervised instance action recognition, Computational Visual Media (**CVMJ**), 2025.
+41\. Zekun Qian, Wei Feng$^\dagger$, Feifan Wang, **Ruize Han**$^\dagger$. BEVTrack: Multi-View Multi-Human Registration and Tracking in the Bird's Eye View, IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 48(4):4842-4859, 2026. [[DOI]](https://doi.org/10.1109/TPAMI.2025.3647707)
 
-35\. Songmiao Wang, **Ruize Han**$^\dagger$, Wei Feng$^\dagger$. Concept-Guided Open-Vocabulary Temporal Action Detection, Journal of Computer Science and Technology (**JCST**), 2025.
+40\. Likai Wang, **Ruize Han**$^\dagger$, Bingliang Jiao, Wei Feng. Category-agnostic Object Re-identification, Pattern Recognition, 179:113849, 2026. [[DOI]](https://doi.org/10.1016/j.patcog.2026.113849)
 
-34\. Likai Wang, Wei Feng, **Ruize Han**$^\dagger$, Xiangqun Zhang, Yanjie Wei, Song Wang, From indoor to outdoor: Unsupervised domain adaptive gait recognition, Pattern Recognition, 2025.
+39\. Likai Wang, Wei Feng, **Ruize Han**$^\dagger$, Xiangqun Zhang, Yanjie Wei, Song Wang, From indoor to outdoor: Unsupervised domain adaptive gait recognition, Pattern Recognition, 171:112159, 2026. (First published online in 2025.) [[DOI]](https://doi.org/10.1016/j.patcog.2025.112159)
 
-33\. Xiangqun Zhang, **Ruize Han**$^\dagger$, Likai Wang, Linqi Song, Junhui Hou$^\dagger$, Wei Feng, Synthetic-To-Real Video Person Re-ID, IEEE Transactions on Information Forensics and Security (**TIFS**), 2025.
+38\. Zekun Qian, **Ruize Han**$^\dagger$, Zhixiang Wang, Junhui Hou, Wei Feng. DOVTrack: Data-Efficient Open-Vocabulary Tracking, in The Annual Conference on Neural Information Processing Systems (**NeurIPS**), San Diego, USA / Mexico City, Mexico, 2025. [[DOI]](https://doi.org/10.52202/085713-3051)
 
-32\. Likai Wang, Xiangqun Zhang, **Ruize Han**$^\dagger$, Yanjie Wei, Song Wang, Wei Feng, A New Benchmark and Algorithm for Clothes-Changing Video Person Re-Identification, IEEE Transactions on Information Forensics and Security (**TIFS**), 2025. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10873002)
+37\. Zekun Qian, **Ruize Han**$^\dagger$, Zhixiang Wang, Junhui Hou, Wei Feng. COVTrack: Continuous Open-Vocabulary Tracking via Adaptive Multi-Cue Fusion, in IEEE/CVF International Conference on Computer Vision (**ICCV**), Honolulu, USA, 2025. [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Qian_COVTrack_Continuous_Open-Vocabulary_Tracking_via_Adaptive_Multi-Cue_Fusion_ICCV_2025_paper.html)
 
-31\. Liqing Gao, Liang Wan, Lianyu Hu, **Ruize Han**, Zekang Liu, Peng Shi, Fanhua Shang, Wei Feng, A large-scale combinatorial benchmark for sign language recognition, Pattern Recognition, 2025. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S003132032400997X)
+36\. Zekun Qian<sup>&para;</sup>, **Ruize Han**<sup>&para;</sup>, Junhui Hou, Linqi Song, Wei Feng. VOVTrack: Exploring the Potentiality in Raw Videos for Open-Vocabulary Multi-Object Tracking, in IEEE/CVF International Conference on Computer Vision (**ICCV**), Honolulu, USA, 2025. [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Qian_VOVTrack_Exploring_the_Potentiality_in_Raw_Videos_for_Open-Vocabulary_Multi-Object_ICCV_2025_paper.html)
 
-30\. Haiji Liang, **Ruize Han**$^\dagger$. OVT-B: A New Large-Scale Benchmark for Open-Vocabulary Multi-Object Tracking, in Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024. [[PDF]](https://proceedings.neurips.cc/paper_files/paper/2024/file/1adeeac24ce6168e20bcee85645720e9-Paper-Datasets_and_Benchmarks_Track.pdf)
+35\. Haomin Yan, **Ruize Han**$^\dagger$, Wei Feng, Jiewen Zhao, Song Wang. Weakly supervised instance action recognition, Computational Visual Media (**CVMJ**), 11(3):603-618, 2025. [[DOI]](https://doi.org/10.26599/CVM.2025.9450390)
 
-29\. Wei Feng, Feifan Wang, **Ruize Han**$^\dagger$, Yiyang Gan, Zekun Qian, Junhui Hou, Song Wang, Unveiling the Power of Self-supervision for Multi-view Multi-human Association and Tracking, IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10684138)
+34\. Songmiao Wang, **Ruize Han**$^\dagger$, Wei Feng$^\dagger$. Concept-Guided Open-Vocabulary Temporal Action Detection, Journal of Computer Science and Technology (**JCST**), 40(5):1270-1284, 2025. [[DOI]](https://doi.org/10.1007/s11390-025-5281-7)
 
-28\. Liqing Gao, Wei Feng, Peng Shi, **Ruize Han**, Di Lin, Liang Wan. Sign language translation with hierarchical memorized context in question answering scenarios. Neural Computing and Applications, 2024.
+33\. Xiangqun Zhang, **Ruize Han**$^\dagger$, Likai Wang, Linqi Song, Junhui Hou$^\dagger$, Wei Feng, Synthetic-To-Real Video Person Re-ID, IEEE Transactions on Information Forensics and Security (**TIFS**), 20:5438-5450, 2025. [[DOI]](https://doi.org/10.1109/TIFS.2025.3574972)
 
-27\. Zixing Lei, Zhenyang Ni, **Ruize Han**, Shuo Tang, Chen Feng, Siheng Chen, Yanfeng Wang. Robust Collaborative Perception without External Localization and Clock Devices, IEEE International Conference on Robotics and Automation (ICRA), 2024.
+32\. Likai Wang, Xiangqun Zhang, **Ruize Han**$^\dagger$, Yanjie Wei, Song Wang, Wei Feng, A New Benchmark and Algorithm for Clothes-Changing Video Person Re-Identification, IEEE Transactions on Information Forensics and Security (**TIFS**), 20:1993-2005, 2025. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10873002) [[DOI]](https://doi.org/10.1109/TIFS.2025.3539079)
 
-26\. Zekun Qian, **Ruize Han**$^\dagger$, Wei Feng, Song Wang. From a Bird's Eye View to See: Joint Camera and Subject Registration without the Camera Calibration, IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024. [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Qian_From_a_Birds_Eye_View_to_See_Joint_Camera_and_CVPR_2024_paper.pdf)
+31\. Liqing Gao, Liang Wan, Lianyu Hu, **Ruize Han**, Zekang Liu, Peng Shi, Fanhua Shang, Wei Feng, A large-scale combinatorial benchmark for sign language recognition, Pattern Recognition, 2025. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S003132032400997X)
 
-25\. **Ruize Han**, Wei Feng, Feifan Wang, Zekun Qian, Haomin Yan, Song Wang, Benchmarking the Complementary-View Multi-human Association and Tracking, International Journal of Computer Vision, (**IJCV**), 2024. [[PDF]](https://link.springer.com/article/10.1007/s11263-023-01857-z)
+30\. Wei Feng, Feifan Wang, **Ruize Han**$^\dagger$, Yiyang Gan, Zekun Qian, Junhui Hou, Song Wang, Unveiling the Power of Self-supervision for Multi-view Multi-human Association and Tracking, IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 47(1):351-368, 2025. (First published online in 2024.) [[Paper]](https://ieeexplore.ieee.org/abstract/document/10684138) [[DOI]](https://doi.org/10.1109/TPAMI.2024.3463966)
 
-24\. Jiacheng Li, **Ruize Han**$^\dagger$, Wei Feng, Haomin Yan, Song Wang. Contactless Interaction Recognition and Interactor Detection in Multi-Person Scenes, Frontiers of Computer Science, 2023.
+29\. Haiji Liang, **Ruize Han**$^\dagger$. OVT-B: A New Large-Scale Benchmark for Open-Vocabulary Multi-Object Tracking, in Annual Conference on Neural Information Processing Systems (**NeurIPS**), Vancouver, Canada, 2024. [[PDF]](https://proceedings.neurips.cc/paper_files/paper/2024/file/1adeeac24ce6168e20bcee85645720e9-Paper-Datasets_and_Benchmarks_Track.pdf)
 
-23\. Likai Wang, **Ruize Han**$^\dagger$, Wei Feng. Combining the Silhouette and Skeleton Data for Gait Recognition, IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023.
+28\. Liqing Gao, Wei Feng, Peng Shi, **Ruize Han**, Di Lin, Liang Wan. Sign language translation with hierarchical memorized context in question answering scenarios. Neural Computing and Applications, 36(21):12951-12976, 2024. [[DOI]](https://doi.org/10.1007/s00521-024-09763-2)
 
-22\. **Ruize Han**<sup>&para;</sup>, Yiyang Gan<sup>&para;</sup>, Likai Wang, Nan Li, Wei Feng, Song Wang. Relating View Directions of Complementary-View Mobile Cameras via the Human Shadow, International Journal of Computer Vision, (**IJCV**), 2023. [[PDF]](https://link.springer.com/article/10.1007/s11263-022-01744-z)
+27\. Zixing Lei, Zhenyang Ni, **Ruize Han**, Shuo Tang, Chen Feng, Siheng Chen, Yanfeng Wang. Robust Collaborative Perception without External Localization and Clock Devices, IEEE International Conference on Robotics and Automation (**ICRA**), Yokohama, Japan, 2024. [[DOI]](https://doi.org/10.1109/ICRA57147.2024.10610635)
 
-21\. **Ruize Han**, Haomin Yan, Jiacheng Li, Wei Feng, Songmiao Wang, Song Wang. Panoramic Human Activity Recognition, in European Conference on Computer Vision (**ECCV**), Tel-Aviv, Israel, 2022. [[PDF]](http://ruizehan.github.io/files/22-ECCV-PanoAct.pdf)
+26\. Zekun Qian, **Ruize Han**$^\dagger$, Wei Feng, Song Wang. From a Bird's Eye View to See: Joint Camera and Subject Registration without the Camera Calibration, IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), Seattle, USA, 2024. [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Qian_From_a_Birds_Eye_View_to_See_Joint_Camera_and_CVPR_2024_paper.pdf)
 
-20\. Jiacheng Li, **Ruize Han**$^\dagger$, Haomin Yan, Zekun Qian, Wei Feng, Song Wang. Self-supervised Social Relation Representation for Human Group Detection, in European Conference on Computer Vision (**ECCV**), Tel-Aviv, Israel, 2022. (Oral, Acceptance rate 2.7%). [[PDF]](http://ruizehan.github.io/files/22-ECCV-SGD.pdf)
+25\. **Ruize Han**, Wei Feng, Feifan Wang, Zekun Qian, Haomin Yan, Song Wang, Benchmarking the Complementary-View Multi-human Association and Tracking, International Journal of Computer Vision (**IJCV**), 2024. [[DOI]](https://link.springer.com/article/10.1007/s11263-023-01857-z)
+
+24\. Jiacheng Li, **Ruize Han**$^\dagger$, Wei Feng, Haomin Yan, Song Wang. Contactless Interaction Recognition and Interactor Detection in Multi-Person Scenes, Frontiers of Computer Science, 18(5):185325, 2024. (First published online in 2023.) [[DOI]](https://doi.org/10.1007/s11704-023-2418-0)
+
+23\. Likai Wang, **Ruize Han**$^\dagger$, Wei Feng. Combining the Silhouette and Skeleton Data for Gait Recognition, IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), Rhodes, Greece, 2023. [[DOI]](https://doi.org/10.1109/ICASSP49357.2023.10096986)
+
+22\. **Ruize Han**<sup>&para;</sup>, Yiyang Gan<sup>&para;</sup>, Likai Wang, Nan Li, Wei Feng, Song Wang. Relating View Directions of Complementary-View Mobile Cameras via the Human Shadow, International Journal of Computer Vision (**IJCV**), 2023. [[DOI]](https://link.springer.com/article/10.1007/s11263-022-01744-z)
+
+21\. **Ruize Han**, Haomin Yan, Jiacheng Li, Wei Feng, Songmiao Wang, Song Wang. Panoramic Human Activity Recognition, in European Conference on Computer Vision (**ECCV**), Tel Aviv, Israel, 2022. [[PDF]](http://ruizehan.github.io/files/22-ECCV-PanoAct.pdf) [[DOI]](https://doi.org/10.1007/978-3-031-19772-7_15)
+
+20\. Jiacheng Li, **Ruize Han**$^\dagger$, Haomin Yan, Zekun Qian, Wei Feng, Song Wang. Self-supervised Social Relation Representation for Human Group Detection, in European Conference on Computer Vision (**ECCV**), Tel Aviv, Israel, 2022. (Oral, Acceptance rate 2.7%). [[PDF]](http://ruizehan.github.io/files/22-ECCV-SGD.pdf) [[DOI]](https://doi.org/10.1007/978-3-031-19833-5_9)
 
 19\. Liqiang Yin<sup>&para;</sup>, **Ruize Han**<sup>&para;</sup>, Wei Feng, Song Wang. Self-Supervised Human Pose based Multi-Camera Video Synchronization, in ACM International Conference on Multimedia (**ACM MM**), Lisbon, Portugal, 2022. [[PDF]](http://ruizehan.github.io/files/22-MM-Syn.pdf)
 
@@ -68,27 +76,27 @@ redirect_from:
 
 16\. **Ruize Han**, Wei Feng, Qing Guo, Qinghua Hu. Single Object Tracking Research : A Survey, Chinese Journal of Computers (in Chinese), 2022. [[PDF]](http://ruizehan.github.io/files/22-CJC-survey.pdf)
 
-15\. **Ruize Han**<sup>&para;</sup>, Yun Wang<sup>&para;</sup>, Haomin Yan, Wei Feng, Song Wang. Multi-view Multi-Human Association with Deep Assignment Network, IEEE Transactions on Image Processing (**TIP**), 31:1830-1840, 2022. [[PDF]](http://ruizehan.github.io/files/22-TIP_MvMHA.pdf)
+15\. **Ruize Han**<sup>&para;</sup>, Yun Wang<sup>&para;</sup>, Haomin Yan, Wei Feng, Song Wang. Multi-view Multi-Human Association with Deep Assignment Network, IEEE Transactions on Image Processing (**TIP**), 31:1830-1840, 2022. [[PDF]](http://ruizehan.github.io/files/22-TIP_MvMHA.pdf) [[DOI]](https://doi.org/10.1109/TIP.2021.3139178)
 
-14\. Jiacheng Li, Ruirui Li, **Ruize Han**, Song Wang. Self-Relabeling for Noise-Tolerant Retina Vessel Segmentation through Label Reliability Estimation, BMC Medical Imaging, 22:8, 2022. [[PDF]](https://bmcmedimaging.biomedcentral.com/track/pdf/10.1186/s12880-021-00732-y.pdf)
+14\. Jiacheng Li, Ruirui Li, **Ruize Han**, Song Wang. Self-Relabeling for Noise-Tolerant Retina Vessel Segmentation through Label Reliability Estimation, BMC Medical Imaging, 22:8, 2022. [[PDF]](https://bmcmedimaging.biomedcentral.com/track/pdf/10.1186/s12880-021-00732-y.pdf) [[DOI]](https://doi.org/10.1186/s12880-021-00732-y)
 
-13\. Yiyang Gan, **Ruize Han**$^\dagger$, Liqiang Yin, Wei Feng, Song Wang. Self-supervised Multi-view Multi-Human Association and Tracking, ACM Multimedia Conference (**ACM MM**), Chengdu, China, 2021. `Oral` [[PDF]](http://ruizehan.github.io/files/21-MM_MvMHAT.pdf)
+13\. **Ruize Han**, Wei Feng, Yujun Zhang, Jiewen Zhao, Song Wang. Multiple Human Association and Tracking from Egocentric and Complementary Top Views, IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 44(9):5225-5242, 2022. (First published online in 2021.) [[PDF]](https://ieeexplore.ieee.org/document/9394804) [[DOI]](https://doi.org/10.1109/TPAMI.2021.3070562)
 
-12\. **Ruize Han**, Wei Feng, Yujun Zhang, Jiewen Zhao, Song Wang. Multiple Human Association and Tracking from Egocentric and Complementary Top Views, IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2021, 44(9): 5225-5242. [[PDF]](https://ieeexplore.ieee.org/document/9394804)
+12\. Yiyang Gan, **Ruize Han**$^\dagger$, Liqiang Yin, Wei Feng, Song Wang. Self-supervised Multi-view Multi-Human Association and Tracking, ACM Multimedia Conference (**ACM MM**), Chengdu, China (Virtual), 2021. `Oral` [[PDF]](http://ruizehan.github.io/files/21-MM_MvMHAT.pdf) [[DOI]](https://doi.org/10.1145/3474085.3475177)
 
-11\. Sibo Wang, **Ruize Han**$^\dagger$, Wei Feng, Song Wang. Multiple Human Tracking in Non-specific Coverage with Wearable Cameras, IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021. [[PDF]](http://ruizehan.github.io/files/21-ICASSP_NSMHT.pdf)
+11\. Sibo Wang, **Ruize Han**$^\dagger$, Wei Feng, Song Wang. Multiple Human Tracking in Non-specific Coverage with Wearable Cameras, IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), Toronto, Canada (Virtual), 2021. [[PDF]](http://ruizehan.github.io/files/21-ICASSP_NSMHT.pdf)
 
-10\. Jiewen Zhao<sup>&para;</sup>, **Ruize Han**<sup>&para;</sup>, Yiyang Gan<sup>&para;</sup>, Liang Wan, Wei Feng, Song Wang. Human Identification and Interaction Detection in Cross-View Multi-Person Videos with Wearable Cameras, ACM International Conference on Multimedia (**ACM MM**) 2020. `Co-first Author` [[PDF]](http://ruizehan.github.io/files/20-MM-CVID.pdf)
+10\. Jiewen Zhao<sup>&para;</sup>, **Ruize Han**<sup>&para;</sup>, Yiyang Gan<sup>&para;</sup>, Liang Wan, Wei Feng, Song Wang. Human Identification and Interaction Detection in Cross-View Multi-Person Videos with Wearable Cameras, ACM International Conference on Multimedia (**ACM MM**), Seattle, USA (Virtual), 2020. `Co-first Author` [[PDF]](http://ruizehan.github.io/files/20-MM-CVID.pdf)
 
-9\. **Ruize Han**<sup>&para;</sup>, Jiewen Zhao<sup>&para;</sup>, Wei Feng, Yiyang Gan, Liang Wan, Song Wang. Complementary-View Co-Interest Person Detection, ACM International Conference on Multimedia (**ACM MM**) 2020. [[PDF]](http://ruizehan.github.io/files/20-MM-CIP.pdf)
+9\. **Ruize Han**<sup>&para;</sup>, Jiewen Zhao<sup>&para;</sup>, Wei Feng, Yiyang Gan, Liang Wan, Song Wang. Complementary-View Co-Interest Person Detection, ACM International Conference on Multimedia (**ACM MM**), Seattle, USA (Virtual), 2020. [[PDF]](http://ruizehan.github.io/files/20-MM-CIP.pdf)
 
 8\. **Ruize Han**, Wei Feng, Song Wang. Fast Learning of Spatially Regularized and Content Aware Correlation Filter for Visual Tracking, IEEE Transactions on Image Processing (**TIP**), 29:7128-7140, 2020. [[PDF]](http://ruizehan.github.io/files/20-TIP_WSCF.pdf)
 
-7\. Haibo Li, Liqing Gao, **Ruize Han**, Liang Wan, Wei Feng. Key Action and Joint CTC-Attention based Sign Language Recognition, IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2020. [[PDF]](http://ruizehan.github.io/files/20-ICASSP.pdf) 
+7\. Haibo Li, Liqing Gao, **Ruize Han**, Liang Wan, Wei Feng. Key Action and Joint CTC-Attention based Sign Language Recognition, IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), Barcelona, Spain (Virtual), 2020. [[PDF]](http://ruizehan.github.io/files/20-ICASSP.pdf)
 
 6\. Qing Guo, **Ruize Han**, Wei Feng, Zhihao Chen, Liang Wan. Selective Spatial Regularization by Reinforcement Learned Decision Making for Object Tracking, IEEE Transactions on Image Processing (**TIP**), 29:2999-3013, 2020. [[PDF]](http://ruizehan.github.io/files/20-TIP_SSR.pdf)
 
-5\. **Ruize Han**, Wei Feng, Jiewen Zhao, Zicheng Niu, Yujun Zhang, Liang Wan, Song Wang. Complementary-View Multiple Human Tracking, AAAI Conference on Artificial Intelligence (**AAAI**), 10917-10924, New York, USA, 2020. [[PDF]](http://ruizehan.github.io/files/20-AAAI_CVMHT.pdf)
+5\. **Ruize Han**, Wei Feng, Jiewen Zhao, Zicheng Niu, Yujun Zhang, Liang Wan, Song Wang. Complementary-View Multiple Human Tracking, AAAI Conference on Artificial Intelligence (**AAAI**), 10917-10924, New York, USA, 2020. [[PDF]](http://ruizehan.github.io/files/20-AAAI_CVMHT.pdf) [[DOI]](https://doi.org/10.1609/aaai.v34i07.6724)
 
 4\. Kuan Li, Yi Jin, Muhammad Waqar Akram, **Ruize Han**, Jiongwei Chen. Facial expression recognition with convolutional neural networks via a new face cropping and rotation strategy. The Visual Computer, 36(2):391-404, 2020. [[PDF]](http://ruizehan.github.io/files/19-VisCom.pdf)
 
@@ -97,6 +105,3 @@ redirect_from:
 2\. **Ruize Han**, Qing Guo, Wei Feng. Content-Related Spatial Regularization for Visual Object Tracking, IEEE International Conference on Multimedia and Expo (**ICME**), San Diego, USA, 2018. `Best Paper Award` [[PDF]](http://ruizehan.github.io/files/18-ICME_CRSR.pdf)
 
 1\. Qian Zhang, Fei-Peng Tian, **Ruize Han**, Wei Feng. Near-Surface Lighting Estimation and Reconstruction, IEEE International Conference on Multimedia and Expo (**ICME**), Hong Kong, China, 2017. [[PDF]](http://ruizehan.github.io/files/17-ICME_NSR.pdf)
-
-
-
