@@ -12,7 +12,7 @@ redirect_from:
 
 48\. Yupeng Zhang, Fangzhuo Gao, **Ruize Han**, Wei Feng, Liang Wan. RT-SDGOD: Real-Time Single-Domain Generalized Object Detection, in European Conference on Computer Vision (**ECCV**), Malmö, Sweden, 2026. [[DOI]](https://doi.org/10.1007/978-3-032-37324-3_1)
 
-47\. Jinyuan Liu, Yang Wang, Zeyu Zhao, Weixin Li, Song Wang, **Ruize Han**. Online Reasoning Video Object Segmentation, in European Conference on Computer Vision (**ECCV**), Malmö, Sweden, 2026. [[DOI]](https://doi.org/10.1007/978-3-032-37550-6_31)
+47\. Jinyuan Liu, Yang Wang, Zeyu Zhao, Weixin Li, Song Wang, **Ruize Han**$^\dagger$. Online Reasoning Video Object Segmentation, in European Conference on Computer Vision (**ECCV**), Malmö, Sweden, 2026. [[DOI]](https://doi.org/10.1007/978-3-032-37550-6_31)
 
 46\. Zhiwei Chen, Yiran Nie, **Ruize Han**, Qinqin Zhou. Cross-Token Guidance Transformer for Weakly Supervised Object Localization, in European Conference on Computer Vision (**ECCV**), Malmö, Sweden, 2026. [[DOI]](https://doi.org/10.1007/978-3-032-37020-4_24)
 
@@ -82,7 +82,7 @@ redirect_from:
 
 13\. **Ruize Han**, Wei Feng, Yujun Zhang, Jiewen Zhao, Song Wang. Multiple Human Association and Tracking from Egocentric and Complementary Top Views, IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 44(9):5225-5242, 2022. (First published online in 2021.) [[PDF]](https://ieeexplore.ieee.org/document/9394804) [[DOI]](https://doi.org/10.1109/TPAMI.2021.3070562)
 
-12\. Yiyang Gan, **Ruize Han**$^\dagger$, Liqiang Yin, Wei Feng, Song Wang. Self-supervised Multi-view Multi-Human Association and Tracking, ACM Multimedia Conference (**ACM MM**), Chengdu, China (Virtual), 2021. `Oral` [[PDF]](http://ruizehan.github.io/files/21-MM_MvMHAT.pdf) [[DOI]](https://doi.org/10.1145/3474085.3475177)
+12\. Yiyang Gan, **Ruize Han**$^\dagger$, Liqiang Yin, Wei Feng, Song Wang$^\dagger$. Self-supervised Multi-view Multi-Human Association and Tracking, ACM Multimedia Conference (**ACM MM**), Chengdu, China (Virtual), 2021. `Oral` [[PDF]](http://ruizehan.github.io/files/21-MM_MvMHAT.pdf) [[DOI]](https://doi.org/10.1145/3474085.3475177)
 
 11\. Sibo Wang, **Ruize Han**$^\dagger$, Wei Feng, Song Wang. Multiple Human Tracking in Non-specific Coverage with Wearable Cameras, IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), Toronto, Canada (Virtual), 2021. [[PDF]](http://ruizehan.github.io/files/21-ICASSP_NSMHT.pdf)
 

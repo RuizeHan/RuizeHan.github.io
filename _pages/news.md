@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-* [2026.09] Two papers have been accepted by _NuurIPS_ 2026.
+* [2026.09] Two papers have been accepted by _NeurIPS_ 2026.
 * [2026.08] COVTrack++ (extension of COVTrack) has been accepted by _IEEE TPAMI_.
 * [2026.06] Four papers have been accepted by _ECCV_ 2026.
 * [2026.02] Three papers (including two findings) have been accepted by _CVPR_ 2026.
