@@ -16,7 +16,7 @@ redirect_from:
 
 46\. Zhiwei Chen, Yiran Nie, **Ruize Han**, Qinqin Zhou. Cross-Token Guidance Transformer for Weakly Supervised Object Localization, in European Conference on Computer Vision (**ECCV**), Malmö, Sweden, 2026. [[DOI]](https://doi.org/10.1007/978-3-032-37020-4_24)
 
-45\. Zekun Qian, **Ruize Han**$^\dagger$, Zhixiang Wang, Liang Wan, Wei Feng. GOVTrack: Towards Generative Open-Vocabulary Multi-Object Tracking, in IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) Findings, Denver, USA, 2026. [[Paper]](https://openreview.net/forum?id=knl16MN8BM)
+45\. Zekun Qian, **Ruize Han**$^\dagger$, Zhixiang Wang, Liang Wan, Wei Feng. GOVTrack: Towards Generative Open-Vocabulary Multi-Object Tracking, in IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) Findings, Denver, USA, 2026. [[Paper]](https://openaccess.thecvf.com/content/CVPR2026F/html/Qian_GOVTrack_Towards_Generative_Open-Vocabulary_Multi-Object_Tracking_CVPRF_2026_paper.html)
 
 44\. Yupeng Zhang, **Ruize Han**$^\dagger$, Fangnan Zhou, Wei Feng, Liang Wan. ODOV: Benchmark the Open-Domain Open-Vocabulary Object Detection, in IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) Findings, Denver, USA, 2026. [[Paper]](https://openaccess.thecvf.com/content/CVPR2026F/html/Zhang_ODOV_Benchmark_the_Open-Domain_Open-Vocabulary_Object_Detection_CVPRF_2026_paper.html)
 
